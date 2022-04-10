@@ -14,3 +14,5 @@ This is repo to hold reports and artifacts from the FOCUSED Collaboration Projec
     - Emailed request for data (Apr 8)
 1. [OSCI](https://opensourceindex.io) (Open Source Contributor Index)
     - 2022-02-28 (diff)
+1. [S&P 500](https://github.com/datasets/s-and-p-500-companies/blob/master/data/constituents.csv) (Standard and Poor's 500). The S&P 500 is a free-float, capitalization-weighted index of the top 500 publicly listed stocks in the US (top 500 by market cap). 
+    1. 2021-10-05
