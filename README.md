@@ -16,3 +16,12 @@ This is repo to hold reports and artifacts from the FOCUSED Collaboration Projec
     - Emailed request for data (Apr 8)
 1. [S&P 500](https://github.com/datasets/s-and-p-500-companies/blob/master/data/constituents.csv) (Standard and Poor's 500). The S&P 500 is a free-float, capitalization-weighted index of the top 500 publicly listed stocks in the US (top 500 by market cap). 
     1. 2021-10-05
+    
+    
+## Summary
+1. in_osci:  298 rows
+1. in_sp500: 505 rows  (osci + sp500        =  781 rows)
+1. in_suzy:  141 rows  (osci + sp500 + suzy =  876 rows)
+1. in_ospo:  225 rows, but 117 unique ** NEED TO DISCUSS **  (sum of above        = 1039 rows) ==> 931 unique "company"
+
+
