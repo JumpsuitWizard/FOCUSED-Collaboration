@@ -779,58 +779,58 @@ Nevion,Media & Telecoms,,False,295.0,True,unknown,n/a,False
 Motion Picture,Media & Telecoms,,False,296.0,True,unknown,n/a,False
 Polyapp,Technology,,False,297.0,True,unknown,n/a,False
 Talan,Professional Services,,False,298.0,True,unknown,n/a,False
-Aiven,,Finland,False,n/a,False,unknown,Aiven (Adopter),True
-Alibaba Group,,China,False,n/a,False,269228400660.0,Alibaba (Adopter),True
-Alliander,,The Netherlands,False,n/a,False,unknown,Alliander (Adopter),True
-Arm Holdings,,United Kingdom,False,n/a,False,unknown,ARM (Adopter),True
-Avanade,,United States,False,n/a,False,2087771176960.0,Avanade (Adopter),True
-AWS,,United States,False,n/a,False,unknown,AWS (Adopter),True
-Itau Unibanco,,Brazil,False,n/a,False,unknown,Banco Itaú (Adopter),True
-Bayerische Motoren Werke,,Germany,False,n/a,False,unknown,BMW (Adopter),True
-The Boeing Company,,United States,False,n/a,False,90352099328.0,Boeing (Adopter),True
-Box,,United States,False,n/a,False,4402399744.0,Box (Adopter),True
-Capital One,,United States,False,n/a,False,51953790976.0,Capital One (Adopter),True
-Change Healthcare,,United States,False,n/a,False,7388748800.0,Change Healthcare (Adopter),True
-Chef Software,,United States,False,n/a,False,unknown,Chef (Adopter),True
-China Mobile,,China,False,n/a,False,142667235837.0,China  Mobile (Adopter),True
-Cisco,,United States,False,n/a,False,208227778560.0,Cisco (Adopter),True
-Datadog,,United States,False,n/a,False,33496272896.0,Datadog (Adopter),True
-Dell Technologies,,United States,False,n/a,False,unknown,Dell Technologies (Adopter),True
-Deutsche Bahn,,Germany,False,n/a,False,unknown,Deutsche Bahn (Adopter),True
-Didi Labs,,United States,False,n/a,False,unknown,Didi (Adopter),True
-DigitalOcean,,United States,False,n/a,False,4048072704.0,DigitalOcean (Adopter),True
-Dropbox,,United States,False,n/a,False,8088215040.0,Dropbox (Adopter),True
-EPAM Systems,,United States,False,n/a,False,16812038144.0,EPAM (Adopter),True
-Esri,,United States,False,n/a,False,unknown,ESRI (Adopter),True
-F5,,United States,False,n/a,False,10502849536.0,F5 (Adopter),True
-Fannie Mae,,United States,False,n/a,False,888533120.0,Fannie Mae (Adopter),True
-Freddie Mac,,United States,False,n/a,False,485659840.0,Freddie Mac (Adopter),True
-HCL Software,,India,False,n/a,False,unknown,HCL Software (Adopter),True
-HERE Technologies Chicago,,United States,False,n/a,False,unknown,Here Technologies (Adopter),True
-Huawei Technologies,,China,False,n/a,False,unknown,Huawei (Adopter),True
-Indeed,,United States,False,n/a,False,unknown,Indeed (Adopter),True
-ITRenew,,United States,False,n/a,False,unknown,ITRenew (Adopter),True
-Johns Hopkins Applied Physics Lab,,United States,False,n/a,False,unknown,John Hopkins University (Adopter),True
-Juniper Innovating Travel Technology,,Spain,False,n/a,False,unknown,Juniper (Adopter),True
-Khan Academy,,United States,False,n/a,False,unknown,Khan Academy (Adopter),True
-Meta,,United States,False,n/a,False,565512634368.0,Meta (Adopter),True
-National Instruments,,United States,False,n/a,False,4715076608.0,National Instruments (Adopter),True
-NGINX,,United States,False,n/a,False,unknown,NGINX (Adopter),True
-Nokia,,Finland,False,n/a,False,unknown,Nokia (Adopter),True
-Pinterest,,United States,False,n/a,False,14732684288.0,Pinterest (Adopter),True
-Porsche,,Germany,False,n/a,False,unknown,Porsche (Adopter),True
-QingCloud,,China,False,n/a,False,220846282.0,Qingcloud (Adopter),True
-Rochester Institute of Technology,,United States,False,n/a,False,unknown,Rochester Institute of Technology (Adopter),True
-Samsung Pay,,United States,False,n/a,False,unknown,Samsung (Adopter),True
-Sauce Labs,,United States,False,n/a,False,unknown,Sauce Labs (Adopter),True
-Slack,,United States,False,n/a,False,26519519232.0,Slack (Adopter),True
-Spotify,,Sweden,False,n/a,False,20336121856.0,Spotify (Adopter),True
-Target,,United States,False,n/a,False,107702190080.0,Target (Adopter),True
-Toyota Motor,,Japan,False,n/a,False,237550780416.0,Toyota (Adopter),True
-"Trinity College, Dublin",,Ireland,False,n/a,False,unknown,Trinity College Dublin (Adopter),True
-Two Sigma,,United States,False,n/a,False,unknown,Two Sigma (Adopter),True
-"University of California, Santa Cruz",,United States,False,n/a,False,unknown,University of Santa Cruz (Adopter),True
-US Bank,,United States,False,n/a,False,73341526016.0,US Bank (Adopter),True
-Walmart Labs,,United States,False,n/a,False,421450645504.0,WalmartLabs (Adopter),True
-Wayfair,,United States,False,n/a,False,9014573056.0,Wayfair (Adopter),True
-Wipro Technologies,,India,False,n/a,False,35257622179.0,Wipro (Adopter),True
+Aiven,unknown,Finland,False,n/a,False,unknown,Aiven (Adopter),True
+Alibaba Group,unknown,China,False,n/a,False,269228400660.0,Alibaba (Adopter),True
+Alliander,unknown,The Netherlands,False,n/a,False,unknown,Alliander (Adopter),True
+Arm Holdings,unknown,United Kingdom,False,n/a,False,unknown,ARM (Adopter),True
+Avanade,unknown,United States,False,n/a,False,2087771176960.0,Avanade (Adopter),True
+AWS,unknown,United States,False,n/a,False,unknown,AWS (Adopter),True
+Itau Unibanco,unknown,Brazil,False,n/a,False,unknown,Banco Itaú (Adopter),True
+Bayerische Motoren Werke,unknown,Germany,False,n/a,False,unknown,BMW (Adopter),True
+The Boeing Company,unknown,United States,False,n/a,False,90352099328.0,Boeing (Adopter),True
+Box,unknown,United States,False,n/a,False,4402399744.0,Box (Adopter),True
+Capital One,unknown,United States,False,n/a,False,51953790976.0,Capital One (Adopter),True
+Change Healthcare,unknown,United States,False,n/a,False,7388748800.0,Change Healthcare (Adopter),True
+Chef Software,unknown,United States,False,n/a,False,unknown,Chef (Adopter),True
+China Mobile,unknown,China,False,n/a,False,142667235837.0,China  Mobile (Adopter),True
+Cisco,unknown,United States,False,n/a,False,208227778560.0,Cisco (Adopter),True
+Datadog,unknown,United States,False,n/a,False,33496272896.0,Datadog (Adopter),True
+Dell Technologies,unknown,United States,False,n/a,False,unknown,Dell Technologies (Adopter),True
+Deutsche Bahn,unknown,Germany,False,n/a,False,unknown,Deutsche Bahn (Adopter),True
+Didi Labs,unknown,United States,False,n/a,False,unknown,Didi (Adopter),True
+DigitalOcean,unknown,United States,False,n/a,False,4048072704.0,DigitalOcean (Adopter),True
+Dropbox,unknown,United States,False,n/a,False,8088215040.0,Dropbox (Adopter),True
+EPAM Systems,unknown,United States,False,n/a,False,16812038144.0,EPAM (Adopter),True
+Esri,unknown,United States,False,n/a,False,unknown,ESRI (Adopter),True
+F5,unknown,United States,False,n/a,False,10502849536.0,F5 (Adopter),True
+Fannie Mae,unknown,United States,False,n/a,False,888533120.0,Fannie Mae (Adopter),True
+Freddie Mac,unknown,United States,False,n/a,False,485659840.0,Freddie Mac (Adopter),True
+HCL Software,unknown,India,False,n/a,False,unknown,HCL Software (Adopter),True
+HERE Technologies Chicago,unknown,United States,False,n/a,False,unknown,Here Technologies (Adopter),True
+Huawei Technologies,unknown,China,False,n/a,False,unknown,Huawei (Adopter),True
+Indeed,unknown,United States,False,n/a,False,unknown,Indeed (Adopter),True
+ITRenew,unknown,United States,False,n/a,False,unknown,ITRenew (Adopter),True
+Johns Hopkins Applied Physics Lab,unknown,United States,False,n/a,False,unknown,John Hopkins University (Adopter),True
+Juniper Innovating Travel Technology,unknown,Spain,False,n/a,False,unknown,Juniper (Adopter),True
+Khan Academy,unknown,United States,False,n/a,False,unknown,Khan Academy (Adopter),True
+Meta,unknown,United States,False,n/a,False,565512634368.0,Meta (Adopter),True
+National Instruments,unknown,United States,False,n/a,False,4715076608.0,National Instruments (Adopter),True
+NGINX,unknown,United States,False,n/a,False,unknown,NGINX (Adopter),True
+Nokia,unknown,Finland,False,n/a,False,unknown,Nokia (Adopter),True
+Pinterest,unknown,United States,False,n/a,False,14732684288.0,Pinterest (Adopter),True
+Porsche,unknown,Germany,False,n/a,False,unknown,Porsche (Adopter),True
+QingCloud,unknown,China,False,n/a,False,220846282.0,Qingcloud (Adopter),True
+Rochester Institute of Technology,unknown,United States,False,n/a,False,unknown,Rochester Institute of Technology (Adopter),True
+Samsung Pay,unknown,United States,False,n/a,False,unknown,Samsung (Adopter),True
+Sauce Labs,unknown,United States,False,n/a,False,unknown,Sauce Labs (Adopter),True
+Slack,unknown,United States,False,n/a,False,26519519232.0,Slack (Adopter),True
+Spotify,unknown,Sweden,False,n/a,False,20336121856.0,Spotify (Adopter),True
+Target,unknown,United States,False,n/a,False,107702190080.0,Target (Adopter),True
+Toyota Motor,unknown,Japan,False,n/a,False,237550780416.0,Toyota (Adopter),True
+"Trinity College, Dublin",unknown,Ireland,False,n/a,False,unknown,Trinity College Dublin (Adopter),True
+Two Sigma,unknown,United States,False,n/a,False,unknown,Two Sigma (Adopter),True
+"University of California, Santa Cruz",unknown,United States,False,n/a,False,unknown,University of Santa Cruz (Adopter),True
+US Bank,unknown,United States,False,n/a,False,73341526016.0,US Bank (Adopter),True
+Walmart Labs,unknown,United States,False,n/a,False,421450645504.0,WalmartLabs (Adopter),True
+Wayfair,unknown,United States,False,n/a,False,9014573056.0,Wayfair (Adopter),True
+Wipro Technologies,unknown,India,False,n/a,False,35257622179.0,Wipro (Adopter),True
