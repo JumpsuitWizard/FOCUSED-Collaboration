@@ -1,0 +1,836 @@
+company,sector,country,in S&P 500,OSCI position,in OSCI,market cap,OSPO status,in OSPO landscape
+3M,Industrials,United States,True,n/a,False,unknown,n/a,False
+A. O. Smith,Industrials,United States,True,n/a,False,unknown,n/a,False
+Abbott Laboratories,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+AbbVie,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Abiomed,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Accenture,Technology,United States,True,47.0,True,unknown,n/a,False
+Activision Blizzard,Communication Services,United States,True,n/a,False,unknown,n/a,False
+ADM,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Adobe,Technology,United States,True,17.0,True,188740124672.0,Adobe (Adopter),True
+Advance Auto Parts,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Advanced Micro Devices,Technology,United States,True,n/a,False,unknown,n/a,False
+AES Corp,Utilities,United States,True,n/a,False,unknown,n/a,False
+Aflac,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Agilent Technologies,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Air Products & Chemicals,Materials,United States,True,n/a,False,unknown,n/a,False
+Akamai Technologies,Technology,United States,True,n/a,False,unknown,n/a,False
+Alaska Air Group,Industrials,United States,True,n/a,False,unknown,n/a,False
+Albemarle Corporation,Materials,United States,True,n/a,False,unknown,n/a,False
+Alexandria Real Estate Equities,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Align Technology,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Allegion,Industrials,United States,True,n/a,False,unknown,n/a,False
+Alliant Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Allstate Corp,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Altria Group,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Amazon,Consumer Discretionary,United States,True,6.0,True,unknown,n/a,False
+Amcor,Materials,United States,True,n/a,False,unknown,n/a,False
+Ameren Corp,Utilities,United States,True,n/a,False,unknown,n/a,False
+American Airlines Group,Industrials,United States,True,n/a,False,unknown,n/a,False
+American Electric Power,Utilities,United States,True,n/a,False,unknown,n/a,False
+American Express,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+American International Group,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+American Tower,Real Estate,United States,True,n/a,False,unknown,n/a,False
+American Water Works,Utilities,United States,True,n/a,False,unknown,n/a,False
+Ameriprise Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+AmerisourceBergen,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Ametek,Industrials,United States,True,n/a,False,unknown,n/a,False
+Amgen,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Amphenol,Technology,United States,True,n/a,False,unknown,n/a,False
+Analog Devices,Technology,United States,True,73.0,True,unknown,n/a,False
+Ansys,Technology,United States,True,n/a,False,unknown,n/a,False
+Anthem,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Aon,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+APA Corporation,Energy,United States,True,n/a,False,unknown,n/a,False
+Apple,Technology,United States,True,24.0,True,2608140386304.0,Apple (Adopter),True
+Applied Materials,Technology,United States,True,n/a,False,unknown,n/a,False
+Aptiv,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Arista Networks,Technology,United States,True,n/a,False,unknown,n/a,False
+Arthur J. Gallagher & Co.,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Assurant,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+AT&T,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Atmos Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Autodesk,Technology,United States,True,98.0,True,41994772480.0,Autodesk (Adopter),True
+Automatic Data Processing,Technology,United States,True,n/a,False,unknown,n/a,False
+AutoZone,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+AvalonBay Communities,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Avery Dennison,Materials,United States,True,n/a,False,unknown,n/a,False
+Baker Hughes,Energy,United States,True,n/a,False,unknown,n/a,False
+Ball Corp,Materials,United States,True,n/a,False,unknown,n/a,False
+Bank of America,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Bath & Body Works Inc.,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Baxter International,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Becton Dickinson,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Berkshire Hathaway,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Best Buy,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Bio-Rad Laboratories,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Bio-Techne,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Biogen,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+BlackRock,"Banking, Insurance & Financial Services ",United States,True,n/a,False,96751116288.0,BlackRock (Adopter),True
+BNY Mellon,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Boeing,Industrials,United States,True,n/a,False,unknown,n/a,False
+Booking Holdings,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+BorgWarner,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Boston Properties,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Boston Scientific,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Bristol Myers Squibb,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Broadcom,Technology,United States,True,70.0,True,unknown,n/a,False
+Broadridge Financial Solutions,Technology,United States,True,n/a,False,unknown,n/a,False
+Brown & Brown,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Brown–Forman,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+C. H. Robinson,Industrials,United States,True,n/a,False,unknown,n/a,False
+Cadence Design Systems,Technology,United States,True,n/a,False,unknown,n/a,False
+Caesars Entertainment,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Campbell Soup,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Capital One Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Cardinal Health,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+CarMax,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Carnival Corporation,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Carrier Global,Industrials,United States,True,n/a,False,unknown,n/a,False
+Catalent,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Caterpillar,Industrials,United States,True,n/a,False,unknown,n/a,False
+Cboe Global Markets,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+CBRE,Real Estate,United States,True,n/a,False,unknown,n/a,False
+CDW,Technology,United States,True,n/a,False,unknown,n/a,False
+Celanese,Materials,United States,True,n/a,False,unknown,n/a,False
+Centene Corporation,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+CenterPoint Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Ceridian,Technology,United States,True,n/a,False,unknown,n/a,False
+Cerner,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+CF Industries,Materials,United States,True,n/a,False,unknown,n/a,False
+Charles River Laboratories,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Charles Schwab Corporation,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Charter Communications,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Chevron Corporation,Energy,United States,True,n/a,False,unknown,n/a,False
+Chipotle Mexican Grill,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Chubb,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Church & Dwight,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Cigna,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Cincinnati Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Cintas Corporation,Industrials,United States,True,n/a,False,unknown,n/a,False
+Cisco Systems,Technology,United States,True,25.0,True,unknown,n/a,False
+Citigroup,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Citizens Financial Group,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Citrix Systems,Technology,United States,True,n/a,False,unknown,n/a,False
+Clorox,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+CME Group,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+CMS Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Coca-Cola Company,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Cognizant Technology Solutions,Technology,United States,True,n/a,False,unknown,n/a,False
+Colgate-Palmolive,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Comcast,Communication Services,United States,True,n/a,False,180723613696.0,Comcast (Adopter),True
+Comerica,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Conagra Brands,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+ConocoPhillips,Energy,United States,True,n/a,False,unknown,n/a,False
+Consolidated Edison,Utilities,United States,True,n/a,False,unknown,n/a,False
+Constellation Brands,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Copart,Industrials,United States,True,n/a,False,unknown,n/a,False
+Corning,Technology,United States,True,n/a,False,unknown,n/a,False
+Corteva,Materials,United States,True,n/a,False,unknown,n/a,False
+Costco,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Coterra,Energy,United States,True,n/a,False,unknown,n/a,False
+Crown Castle,Real Estate,United States,True,n/a,False,unknown,n/a,False
+CSX,Industrials,United States,True,n/a,False,unknown,n/a,False
+Cummins,Industrials,United States,True,n/a,False,unknown,n/a,False
+CVS Health,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+D. R. Horton,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Danaher Corporation,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Darden Restaurants,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+DaVita,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Deere & Co.,Industrials,United States,True,n/a,False,unknown,n/a,False
+Delta Air Lines,Industrials,United States,True,n/a,False,unknown,n/a,False
+Dentsply Sirona,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Devon Energy,Energy,United States,True,n/a,False,unknown,n/a,False
+DexCom,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Diamondback Energy,Energy,United States,True,n/a,False,unknown,n/a,False
+Digital Realty Trust,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Discover Financial Services,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Discovery (Series A),Communication Services,United States,True,n/a,False,unknown,n/a,False
+Discovery (Series C),Communication Services,United States,True,n/a,False,unknown,n/a,False
+Dish Network,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Dollar General,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Dollar Tree,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Dominion Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Domino's Pizza,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Dover Corporation,Industrials,United States,True,n/a,False,unknown,n/a,False
+Dow,Materials,United States,True,n/a,False,unknown,n/a,False
+DTE Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Duke Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Duke Realty Corp,Real Estate,United States,True,n/a,False,unknown,n/a,False
+DuPont,Materials,United States,True,n/a,False,unknown,n/a,False
+DXC Technology,Technology,United States,True,n/a,False,unknown,n/a,False
+Eastman Chemical,Materials,United States,True,n/a,False,unknown,n/a,False
+Eaton Corporation,Industrials,United States,True,n/a,False,unknown,n/a,False
+eBay,Consumer Discretionary,United States,True,n/a,False,30270382080.0,eBay (Adopter),True
+Ecolab,Materials,United States,True,n/a,False,unknown,n/a,False
+Edison International,Utilities,United States,True,n/a,False,unknown,n/a,False
+Edwards Lifesciences,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Electronic Arts,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Eli Lilly & Co,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Emerson Electric Company,Industrials,United States,True,n/a,False,unknown,n/a,False
+Enphase Energy,Technology,United States,True,n/a,False,unknown,n/a,False
+Entergy,Utilities,United States,True,n/a,False,unknown,n/a,False
+EOG Resources,Energy,United States,True,n/a,False,unknown,n/a,False
+Equifax,Industrials,United States,True,n/a,False,unknown,n/a,False
+Equinix,Real Estate,United States,True,n/a,False,65114263552.0,Equinix (Adopter),True
+Equity Residential,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Essex Property Trust,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Estée Lauder Companies,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Etsy,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Everest Re,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Evergy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Eversource Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Exelon,Utilities,United States,True,n/a,False,unknown,n/a,False
+Expedia Group,Consumer Discretionary,United States,True,101.0,True,unknown,n/a,False
+Expeditors,Industrials,United States,True,n/a,False,unknown,n/a,False
+Extra Space Storage,Real Estate,United States,True,n/a,False,unknown,n/a,False
+ExxonMobil,Energy,United States,True,n/a,False,unknown,n/a,False
+F5 Networks,Technology,United States,True,n/a,False,unknown,n/a,False
+Facebook,Communication Services,United States,True,7.0,True,unknown,n/a,False
+Fastenal,Industrials,United States,True,n/a,False,unknown,n/a,False
+Federal Realty Investment Trust,Real Estate,United States,True,n/a,False,unknown,n/a,False
+FedEx,Industrials,United States,True,n/a,False,unknown,n/a,False
+Fidelity National Information Services,Technology,United States,True,n/a,False,unknown,n/a,False
+Fifth Third Bancorp,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+First Republic Bank,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+FirstEnergy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Fiserv,Technology,United States,True,n/a,False,unknown,n/a,False
+Fleetcor,Technology,United States,True,n/a,False,unknown,n/a,False
+FMC Corporation,Materials,United States,True,n/a,False,unknown,n/a,False
+Ford,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Fortinet,Technology,United States,True,n/a,False,unknown,n/a,False
+Fortive,Industrials,United States,True,n/a,False,unknown,n/a,False
+Fortune Brands Home & Security,Industrials,United States,True,n/a,False,unknown,n/a,False
+Fox Corporation (Class A),Communication Services,United States,True,n/a,False,unknown,n/a,False
+Fox Corporation (Class B),Communication Services,United States,True,n/a,False,unknown,n/a,False
+Franklin Resources,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Freeport-McMoRan,Materials,United States,True,n/a,False,unknown,n/a,False
+Gap,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Garmin,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Gartner,Technology,United States,True,n/a,False,unknown,n/a,False
+Generac Holdings,Industrials,United States,True,n/a,False,unknown,n/a,False
+General Dynamics,Industrials,United States,True,n/a,False,unknown,n/a,False
+General Electric,Industrials,United States,True,n/a,False,unknown,n/a,False
+General Mills,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+General Motors,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Genuine Parts,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Gilead Sciences,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Global Payments,Technology,United States,True,n/a,False,unknown,n/a,False
+Globe Life,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Goldman Sachs,"Banking, Insurance & Financial Services ",United States,True,248.0,True,107847974912.0,Goldman Sachs (Adopter),True
+Halliburton,Energy,United States,True,n/a,False,unknown,n/a,False
+Hanesbrands,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Hasbro,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+HCA Healthcare,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Healthpeak Properties,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Henry Schein,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Hess Corporation,Energy,United States,True,n/a,False,unknown,n/a,False
+Hewlett Packard Enterprise,Technology,United States,True,40.0,True,20440801280.0,HPE (Adopter),True
+Hilton Worldwide,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Hologic,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Home Depot,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Honeywell,Industrials,United States,True,n/a,False,unknown,n/a,False
+Hormel,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Host Hotels & Resorts,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Howmet Aerospace,Industrials,United States,True,n/a,False,unknown,n/a,False
+HP,Technology,United States,True,n/a,False,unknown,n/a,False
+Humana,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Huntington Bancshares,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Huntington Ingalls Industries,Industrials,United States,True,n/a,False,unknown,n/a,False
+IBM,Technology,United States,True,5.0,True,120321998848.0,IBM (Adopter),True
+IDEX Corporation,Industrials,United States,True,n/a,False,unknown,n/a,False
+Idexx Laboratories,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+IHS Markit,Industrials,United States,True,n/a,False,unknown,n/a,False
+Illinois Tool Works,Industrials,United States,True,n/a,False,unknown,n/a,False
+Illumina,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Incyte,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Ingersoll Rand,Industrials,United States,True,n/a,False,unknown,n/a,False
+Intel,Technology,United States,True,4.0,True,183187193856.0,Intel (Adopter),True
+Intercontinental Exchange,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+International Flavors & Fragrances,Materials,United States,True,n/a,False,unknown,n/a,False
+International Paper,Materials,United States,True,n/a,False,unknown,n/a,False
+Interpublic Group,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Intuit,Technology,United States,True,n/a,False,unknown,n/a,False
+Intuitive Surgical,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Invesco,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+IPG Photonics,Technology,United States,True,n/a,False,unknown,n/a,False
+IQVIA,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Iron Mountain,Real Estate,United States,True,n/a,False,unknown,n/a,False
+J. B. Hunt,Industrials,United States,True,n/a,False,unknown,n/a,False
+Jack Henry & Associates,Technology,United States,True,n/a,False,unknown,n/a,False
+Jacobs Engineering Group,Industrials,United States,True,n/a,False,unknown,n/a,False
+JM Smucker,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Johnson & Johnson,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Johnson Controls,Industrials,United States,True,n/a,False,unknown,n/a,False
+JPMorgan Chase,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Juniper Networks,Technology,United States,True,n/a,False,unknown,n/a,False
+Kansas City Southern,Industrials,United States,True,n/a,False,unknown,n/a,False
+Kellogg's,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+KeyCorp,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Keysight Technologies,Technology,United States,True,n/a,False,unknown,n/a,False
+Kimberly-Clark,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Kimco Realty,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Kinder Morgan,Energy,United States,True,n/a,False,unknown,n/a,False
+KLA Corporation,Technology,United States,True,n/a,False,unknown,n/a,False
+Kraft Heinz,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Kroger,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+L3Harris Technologies,Industrials,United States,True,n/a,False,unknown,n/a,False
+LabCorp,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Lam Research,Technology,United States,True,n/a,False,unknown,n/a,False
+Lamb Weston,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Las Vegas Sands,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Leggett & Platt,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Leidos,Industrials,United States,True,n/a,False,unknown,n/a,False
+Lennar,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Lincoln National,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Linde,Materials,United States,True,n/a,False,unknown,n/a,False
+Live Nation Entertainment,Communication Services,United States,True,n/a,False,unknown,n/a,False
+LKQ Corporation,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Lockheed Martin,Industrials,United States,True,n/a,False,unknown,n/a,False
+Loews Corporation,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Lowe's,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Lumen Technologies,Communication Services,United States,True,n/a,False,unknown,n/a,False
+LyondellBasell,Materials,United States,True,n/a,False,unknown,n/a,False
+M&T Bank,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Marathon Oil,Energy,United States,True,n/a,False,unknown,n/a,False
+Marathon Petroleum,Energy,United States,True,n/a,False,unknown,n/a,False
+MarketAxess,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Marriott International,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Marsh & McLennan,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Martin Marietta Materials,Materials,United States,True,n/a,False,unknown,n/a,False
+Masco,Industrials,United States,True,n/a,False,unknown,n/a,False
+Mastercard,Technology,United States,True,n/a,False,unknown,n/a,False
+Match Group,Communication Services,United States,True,n/a,False,unknown,n/a,False
+McCormick & Company,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+McDonald's,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+McKesson Corporation,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Medtronic,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Merck & Co.,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+MetLife,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Mettler Toledo,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+MGM Resorts International,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Microchip Technology,Technology,United States,True,120.0,True,unknown,n/a,False
+Micron Technology,Technology,United States,True,n/a,False,unknown,n/a,False
+Microsoft,Technology,United States,True,2.0,True,2087771176960.0,Microsoft (Adopter),True
+Mid-America Apartments,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Moderna,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Mohawk Industries,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Molson Coors Beverage Company,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Mondelez International,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Monolithic Power Systems,Technology,United States,True,n/a,False,unknown,n/a,False
+Monster Beverage,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Moody's Corporation,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Morgan Stanley,"Banking, Insurance & Financial Services ",United States,True,n/a,False,150626025472.0,Morgan Stanley (Adopter),True
+Motorola Solutions,Technology,United States,True,n/a,False,unknown,n/a,False
+MSCI,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Nasdaq,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+NetApp,Technology,United States,True,n/a,False,16616762368.0,Netapp (Adopter),True
+Netflix,Communication Services,United States,True,77.0,True,85567168512.0,Netflix (Adopter),True
+Newell Brands,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Newmont,Materials,United States,True,n/a,False,unknown,n/a,False
+News Corp (Class A),Communication Services,United States,True,n/a,False,unknown,n/a,False
+News Corp (Class B),Communication Services,United States,True,n/a,False,unknown,n/a,False
+NextEra Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Nielsen Holdings,Industrials,United States,True,n/a,False,unknown,n/a,False
+Nike,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+NiSource,Utilities,United States,True,n/a,False,unknown,n/a,False
+Norfolk Southern,Industrials,United States,True,n/a,False,unknown,n/a,False
+Northern Trust,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Northrop Grumman,Industrials,United States,True,n/a,False,unknown,n/a,False
+NortonLifeLock,Technology,United States,True,n/a,False,unknown,n/a,False
+Norwegian Cruise Line Holdings,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+NRG Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Nucor,Materials,United States,True,n/a,False,unknown,n/a,False
+Nvidia,Technology,United States,True,n/a,False,unknown,n/a,False
+NVR,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+NXP,Technology,United States,True,74.0,True,unknown,n/a,False
+O'Reilly Automotive,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Occidental Petroleum,Energy,United States,True,n/a,False,unknown,n/a,False
+Old Dominion Freight Line,Industrials,United States,True,n/a,False,unknown,n/a,False
+Omnicom Group,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Oneok,Energy,United States,True,n/a,False,unknown,n/a,False
+Oracle,Technology,United States,True,11.0,True,unknown,n/a,False
+Organon & Co.,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Otis Worldwide,Industrials,United States,True,n/a,False,unknown,n/a,False
+Paccar,Industrials,United States,True,n/a,False,unknown,n/a,False
+Packaging Corporation of America,Materials,United States,True,n/a,False,unknown,n/a,False
+Parker-Hannifin,Industrials,United States,True,n/a,False,unknown,n/a,False
+Paychex,Technology,United States,True,n/a,False,unknown,n/a,False
+Paycom,Technology,United States,True,n/a,False,unknown,n/a,False
+PayPal,Technology,United States,True,n/a,False,102159556608.0,Paypal (Adopter),True
+Penn National Gaming,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Pentair,Industrials,United States,True,n/a,False,unknown,n/a,False
+People's United Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+PepsiCo,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+PerkinElmer,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Pfizer,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Philip Morris International,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Phillips 66,Energy,United States,True,n/a,False,unknown,n/a,False
+Pinnacle West Capital,Utilities,United States,True,n/a,False,unknown,n/a,False
+Pioneer Natural Resources,Energy,United States,True,n/a,False,unknown,n/a,False
+PNC Financial Services,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Pool Corporation,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+PPG Industries,Materials,United States,True,n/a,False,unknown,n/a,False
+PPL,Utilities,United States,True,n/a,False,unknown,n/a,False
+Principal Financial Group,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Procter & Gamble,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Progressive Corporation,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Prologis,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Prudential Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+PTC,Technology,United States,True,n/a,False,unknown,n/a,False
+Public Service Enterprise Group,Utilities,United States,True,n/a,False,unknown,n/a,False
+Public Storage,Real Estate,United States,True,n/a,False,unknown,n/a,False
+PulteGroup,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+PVH,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Qorvo,Technology,United States,True,n/a,False,unknown,n/a,False
+Qualcomm,Technology,United States,True,n/a,False,161405190144.0,Qualcomm (Adopter),True
+Quanta Services,Industrials,United States,True,n/a,False,unknown,n/a,False
+Quest Diagnostics,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Ralph Lauren Corporation,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Raymond James Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Raytheon Technologies,Industrials,United States,True,n/a,False,unknown,n/a,False
+Realty Income Corporation,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Regency Centers,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Regeneron Pharmaceuticals,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Regions Financial Corporation,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Republic Services,Industrials,United States,True,n/a,False,unknown,n/a,False
+ResMed,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Robert Half International,Industrials,United States,True,n/a,False,unknown,n/a,False
+Rockwell Automation,Industrials,United States,True,n/a,False,unknown,n/a,False
+Rollins,Industrials,United States,True,n/a,False,unknown,n/a,False
+Roper Technologies,Industrials,United States,True,n/a,False,unknown,n/a,False
+Ross Stores,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Royal Caribbean Group,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+S&P Global,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Salesforce,Technology,United States,True,30.0,True,174780301312.0,Salesforce (Adopter),True
+SBA Communications,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Schlumberger,Energy,United States,True,n/a,False,unknown,n/a,False
+Seagate Technology,Technology,United States,True,n/a,False,18084495360.0,Seagate (Adopter),True
+Sealed Air,Materials,United States,True,n/a,False,unknown,n/a,False
+Sempra Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+ServiceNow,Technology,United States,True,n/a,False,unknown,n/a,False
+Sherwin-Williams,Materials,United States,True,n/a,False,unknown,n/a,False
+Simon Property Group,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Skyworks Solutions,Technology,United States,True,n/a,False,unknown,n/a,False
+Snap-on,Industrials,United States,True,n/a,False,unknown,n/a,False
+Southern Company,Utilities,United States,True,n/a,False,unknown,n/a,False
+Southwest Airlines,Industrials,United States,True,n/a,False,unknown,n/a,False
+Stanley Black & Decker,Industrials,United States,True,n/a,False,unknown,n/a,False
+Starbucks,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+State Street Corporation,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Steris,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Stryker Corporation,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+SVB Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Synchrony Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Synopsys,Technology,United States,True,106.0,True,unknown,n/a,False
+Sysco,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+T-Mobile US,Communication Services,United States,True,n/a,False,unknown,n/a,False
+T. Rowe Price,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Take-Two Interactive,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Tapestry,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Target Corporation,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+TE Connectivity,Technology,United States,True,n/a,False,unknown,n/a,False
+Teledyne Technologies,Industrials,United States,True,n/a,False,unknown,n/a,False
+Teleflex,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Teradyne,Technology,United States,True,n/a,False,unknown,n/a,False
+Tesla,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Texas Instruments,Technology,United States,True,n/a,False,unknown,n/a,False
+Textron,Industrials,United States,True,n/a,False,unknown,n/a,False
+The Cooper Companies,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+The Hartford,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+The Hershey Company,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+The Mosaic Company,Materials,United States,True,n/a,False,unknown,n/a,False
+The Travelers Companies,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+The Walt Disney Company,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Thermo Fisher Scientific,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+TJX Companies,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Tractor Supply Company,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Trane Technologies,Industrials,United States,True,n/a,False,unknown,n/a,False
+TransDigm Group,Industrials,United States,True,n/a,False,unknown,n/a,False
+Trimble,Technology,United States,True,n/a,False,unknown,n/a,False
+Truist Financial,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Twitter,Communication Services,United States,True,83.0,True,52861677568.0,Twitter (Adopter),True
+Tyler Technologies,Technology,United States,True,n/a,False,unknown,n/a,False
+Tyson Foods,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+U.S. Bancorp,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+UDR,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Ulta Beauty,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Under Armour (Class A),Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Under Armour (Class C),Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Union Pacific,Industrials,United States,True,n/a,False,unknown,n/a,False
+United Airlines,Industrials,United States,True,n/a,False,unknown,n/a,False
+United Parcel Service,Industrials,United States,True,n/a,False,unknown,n/a,False
+United Rentals,Industrials,United States,True,n/a,False,unknown,n/a,False
+UnitedHealth Group,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Universal Health Services,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Valero Energy,Energy,United States,True,n/a,False,unknown,n/a,False
+Ventas,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Verisign,Technology,United States,True,n/a,False,unknown,n/a,False
+Verisk Analytics,Industrials,United States,True,n/a,False,unknown,n/a,False
+Verizon Communications,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Vertex Pharmaceuticals,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+VF Corporation,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+ViacomCBS,Communication Services,United States,True,n/a,False,unknown,n/a,False
+Viatris,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Visa,Technology,United States,True,n/a,False,unknown,n/a,False
+Vornado Realty Trust,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Vulcan Materials,Materials,United States,True,n/a,False,unknown,n/a,False
+W. R. Berkley Corporation,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+W. W. Grainger,Industrials,United States,True,n/a,False,unknown,n/a,False
+Wabtec,Industrials,United States,True,n/a,False,unknown,n/a,False
+Walgreens Boots Alliance,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Walmart,Consumer Staples,United States,True,n/a,False,unknown,n/a,False
+Waste Management,Industrials,United States,True,n/a,False,unknown,n/a,False
+Waters Corporation,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+WEC Energy Group,Utilities,United States,True,n/a,False,unknown,n/a,False
+Wells Fargo,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Welltower,Real Estate,United States,True,n/a,False,unknown,n/a,False
+West Pharmaceutical Services,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Western Digital,Technology,United States,True,n/a,False,20172500998.0,Western Digital (Adopter),True
+Western Union,Technology,United States,True,n/a,False,unknown,n/a,False
+WestRock,Materials,United States,True,n/a,False,unknown,n/a,False
+Weyerhaeuser,Real Estate,United States,True,n/a,False,unknown,n/a,False
+Whirlpool Corporation,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Williams Companies,Energy,United States,True,n/a,False,unknown,n/a,False
+Willis Towers Watson,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Wynn Resorts,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Xcel Energy,Utilities,United States,True,n/a,False,unknown,n/a,False
+Xilinx,Technology,United States,True,n/a,False,48653168008.0,Xilinx (Adopter),True
+Xylem,Industrials,United States,True,n/a,False,unknown,n/a,False
+Yum! Brands,Consumer Discretionary,United States,True,n/a,False,unknown,n/a,False
+Zebra Technologies,Technology,United States,True,n/a,False,unknown,n/a,False
+Zimmer Biomet,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Zions Bancorp,"Banking, Insurance & Financial Services ",United States,True,n/a,False,unknown,n/a,False
+Zoetis,Healthcare & Pharma,United States,True,n/a,False,unknown,n/a,False
+Google,Technology,United States,True,1.0,True,1524992311296.0,Google (Adopter),True
+Red Hat,Technology,United States,False,3.0,True,120321998848.0,Red Hat (Adopter),True
+GitHub,Technology,United States,False,8.0,True,2087771176960.0,GitHub (Adopter),True
+VMware,Technology,United States,False,9.0,True,45271941120.0,VMWare (Adopter),True
+SAP,Technology,Germany,False,10.0,True,116731240448.0,SAP (Adopter),True
+Huawei,Media & Telecoms,,False,12.0,True,unknown,n/a,False
+NVidia,Technology,,False,13.0,True,unknown,n/a,False
+Tencent,Media & Telecoms,China,False,14.0,True,450660473370.0,Tencent (Adopter),True
+SUSE,Technology,,False,15.0,True,unknown,n/a,False
+Alibaba,Technology,,False,16.0,True,unknown,n/a,False
+Elastic,Technology,United States,False,18.0,True,6596107264.0,Elastic (Adopter),True
+EPAM,Technology,,False,19.0,True,unknown,n/a,False
+JetBrains,Technology,,False,20.0,True,unknown,n/a,False
+Liferay,Technology,,False,21.0,True,unknown,n/a,False
+ARM,Technology,,False,22.0,True,unknown,n/a,False
+Mozilla,Technology,,False,23.0,True,unknown,n/a,False
+Datadoghq,Technology,,False,26.0,True,unknown,n/a,False
+GitLab,Technology,United States,False,27.0,True,7085699072.0,GitLab (Adopter),True
+GitLab,Technology,China,False,27.0,True,unknown,JiHu(GitLab) (Adopter),True
+mongoDB,Technology,,False,28.0,True,unknown,n/a,False
+Canonical,Technology,,False,29.0,True,unknown,n/a,False
+AMD,Technology,,False,31.0,True,unknown,n/a,False
+Baidu,Technology,China,False,32.0,True,43146259694.0,Baidu (Adopter),True
+Odoo,Technology,,False,33.0,True,unknown,n/a,False
+HashiCorp,Technology,,False,34.0,True,unknown,n/a,False
+Unity Technologies,Technology,,False,35.0,True,unknown,n/a,False
+Samsung,Technology,,False,36.0,True,unknown,n/a,False
+Shopify,Technology,,False,37.0,True,unknown,n/a,False
+Automattic,Technology,,False,38.0,True,unknown,n/a,False
+Yandex,Technology,,False,39.0,True,unknown,n/a,False
+Nordic Semiconductor,Technology,,False,41.0,True,unknown,n/a,False
+Splunk,Technology,,False,42.0,True,unknown,n/a,False
+Espressif,Technology,,False,43.0,True,unknown,n/a,False
+Pivotal,Technology,,False,44.0,True,unknown,n/a,False
+Bosch,Technology,Germany,False,45.0,True,unknown,Bosch (Adopter),True
+Kitware,Technology,,False,46.0,True,unknown,n/a,False
+LinkedIn,Technology,,False,48.0,True,unknown,n/a,False
+Palo Alto Networks,Technology,,False,49.0,True,unknown,n/a,False
+New Relic,Technology,United States,False,50.0,True,3953571584.0,New Relic (Adopter),True
+Qt,Technology,,False,51.0,True,unknown,n/a,False
+Linaro,Technology,,False,52.0,True,unknown,n/a,False
+ESRI,Technology,,False,53.0,True,unknown,n/a,False
+Grafana,Technology,,False,54.0,True,unknown,n/a,False
+Cloudera,Technology,,False,55.0,True,unknown,n/a,False
+WIX,Technology,,False,56.0,True,unknown,n/a,False
+ThoughtWorks,Technology,,False,57.0,True,unknown,n/a,False
+Capgemini,Professional Services,,False,58.0,True,unknown,n/a,False
+Confluent,Technology,,False,59.0,True,unknown,n/a,False
+Couchbase,Technology,,False,60.0,True,unknown,n/a,False
+Atlassian,Technology,,False,61.0,True,unknown,n/a,False
+Collabora,Technology,,False,62.0,True,unknown,n/a,False
+Iohk,Technology,,False,63.0,True,unknown,n/a,False
+Cockroachlabs,Technology,,False,64.0,True,unknown,n/a,False
+Equinor,Energy & Utilities,,False,65.0,True,unknown,n/a,False
+Uber,Travel & Transport,United States,False,66.0,True,51337248768.0,Uber (Adopter),True
+Mapbox,Technology,,False,67.0,True,unknown,n/a,False
+Orange,Media & Telecoms,,False,68.0,True,unknown,n/a,False
+Square,Technology,United States,False,69.0,True,55441948672.0,Square (Adopter),True
+ONLYOFFICE,Technology,,False,71.0,True,unknown,n/a,False
+Cloudfare,Technology,,False,72.0,True,unknown,n/a,False
+Snyk,Technology,,False,75.0,True,unknown,n/a,False
+CGI,Technology,,False,76.0,True,unknown,n/a,False
+Dynatrace,Technology,United States,False,78.0,True,11136910336.0,Dynatrace (Adopter),True
+WSO2,Technology,,False,79.0,True,unknown,n/a,False
+Sonarsource,Technology,,False,80.0,True,unknown,n/a,False
+Instructure,Technology,,False,81.0,True,unknown,n/a,False
+Bloomberg,"Banking, Insurance & Financial Services",United States,False,82.0,True,unknown,Bloomberg (Adopter),True
+Sentry,Technology,,False,84.0,True,unknown,n/a,False
+Twilio,Technology,,False,85.0,True,unknown,n/a,False
+Verizon Media,Media & Telecoms,United States,False,86.0,True,199440908288.0,Verizon Media (Adopter),True
+Camptocamp,Technology,,False,87.0,True,unknown,n/a,False
+ScyllaDB,Technology,,False,88.0,True,unknown,n/a,False
+Puppet,Technology,,False,89.0,True,unknown,n/a,False
+Igalia,Professional Services,,False,90.0,True,unknown,n/a,False
+Ericsson,Media & Telecoms,Sweden,False,91.0,True,27222110208.0,Ericsson (Adopter),True
+LG Electronics,Technology,,False,92.0,True,unknown,n/a,False
+RTE,Energy & Utilities,,False,93.0,True,unknown,n/a,False
+Percona,Technology,,False,94.0,True,unknown,n/a,False
+PingCAP,Technology,,False,95.0,True,unknown,n/a,False
+MuleSoft,Technology,,False,96.0,True,unknown,n/a,False
+Wind River,Technology,United States,False,97.0,True,unknown,Windriver (Adopter),True
+Shopware,Technology,,False,99.0,True,unknown,n/a,False
+Sony,Technology,,False,100.0,True,unknown,n/a,False
+CircleCI,Technology,,False,102.0,True,unknown,n/a,False
+BBC,Media & Telecoms,,False,103.0,True,unknown,n/a,False
+T-Systems,Professional Services,,False,104.0,True,unknown,n/a,False
+LINE Corporation,Media & Telecoms,,False,105.0,True,unknown,n/a,False
+Okta,Technology,,False,107.0,True,unknown,n/a,False
+Stripe,"Banking, Insurance & Financial Services",United States,False,108.0,True,unknown,Stripe (Adopter),True
+ConsenSys,Technology,,False,109.0,True,unknown,n/a,False
+Palantir,Technology,,False,110.0,True,unknown,n/a,False
+Mendix,Technology,,False,111.0,True,unknown,n/a,False
+Camunda,Technology,Germany,False,112.0,True,unknown,Camunda (Adopter),True
+MariaDB,Technology,,False,113.0,True,unknown,n/a,False
+Gofore,Technology,,False,114.0,True,unknown,n/a,False
+Antmicro,Technology,,False,115.0,True,unknown,n/a,False
+Truss Works,Technology,,False,116.0,True,unknown,n/a,False
+Spryker,Technology,,False,117.0,True,unknown,n/a,False
+RStudio,Technology,,False,118.0,True,unknown,n/a,False
+Ad Hoc,Technology,,False,119.0,True,unknown,n/a,False
+Gradle,Technology,,False,121.0,True,unknown,n/a,False
+MediaTek,Technology,,False,122.0,True,unknown,n/a,False
+Brave,Technology,,False,123.0,True,unknown,n/a,False
+Open Robotics,Technology,,False,124.0,True,unknown,n/a,False
+Digital Asset,"Banking, Insurance & Financial Services",,False,125.0,True,unknown,n/a,False
+The guardian,Media & Telecoms,,False,126.0,True,unknown,n/a,False
+Talend,Technology,,False,127.0,True,unknown,n/a,False
+Vaadin,Technology,,False,128.0,True,unknown,n/a,False
+Arbisoft,Technology,,False,129.0,True,unknown,n/a,False
+Lyft,Travel & Transport,,False,130.0,True,unknown,n/a,False
+Citrix,Technology,,False,131.0,True,unknown,n/a,False
+Uninvention,Technology,,False,132.0,True,unknown,n/a,False
+SiFive,Technology,,False,133.0,True,unknown,n/a,False
+Balena,Technology,,False,134.0,True,unknown,n/a,False
+Kaltura,Technology,,False,135.0,True,unknown,n/a,False
+Exoplatform,Technology,,False,136.0,True,unknown,n/a,False
+HERE,Technology,,False,137.0,True,unknown,n/a,False
+Philips,Healthcare & Pharma,,False,138.0,True,unknown,n/a,False
+SBK Kontur,Technology,,False,139.0,True,unknown,n/a,False
+BJISS,Professional Services,,False,140.0,True,unknown,n/a,False
+Kainos,Technology,,False,141.0,True,unknown,n/a,False
+Solita,Technology,,False,142.0,True,unknown,n/a,False
+Ant Financial,"Banking, Insurance & Financial Services",,False,143.0,True,unknown,n/a,False
+Reaktor,Technology,,False,144.0,True,unknown,n/a,False
+Made Tech,Technology,,False,145.0,True,unknown,n/a,False
+Akvelon,Technology,,False,146.0,True,unknown,n/a,False
+Linagora,Technology,,False,147.0,True,unknown,n/a,False
+Docker,Technology,,False,148.0,True,unknown,n/a,False
+Adguard,Technology,,False,149.0,True,unknown,n/a,False
+Scality,Technology,,False,150.0,True,unknown,n/a,False
+Zalando,Technology,Germany,False,151.0,True,10103234230.0,Zalando (Adopter),True
+Wire,Technology,,False,152.0,True,unknown,n/a,False
+Cloudbees,Technology,,False,153.0,True,unknown,n/a,False
+TI,Technology,,False,154.0,True,unknown,n/a,False
+Centreon,Technology,,False,155.0,True,unknown,n/a,False
+tweag.io,Technology,,False,156.0,True,unknown,n/a,False
+Acsone,Technology,,False,157.0,True,unknown,n/a,False
+ArangoDB,Technology,,False,158.0,True,unknown,n/a,False
+plentymarkets,Technology,,False,159.0,True,unknown,n/a,False
+Nextcloud,Technology,,False,160.0,True,unknown,n/a,False
+STMicroelectronics,Technology,,False,161.0,True,unknown,n/a,False
+Giant Swarm,Technology,,False,162.0,True,unknown,n/a,False
+OCTO Technology,Professional Services,,False,163.0,True,unknown,n/a,False
+Yoast,Technology,,False,164.0,True,unknown,n/a,False
+Alfresco,Technology,,False,165.0,True,unknown,n/a,False
+LunarG,Technology,,False,166.0,True,unknown,n/a,False
+D2L,Technology,,False,167.0,True,unknown,n/a,False
+Improbable,Technology,,False,168.0,True,unknown,n/a,False
+Pantheon,Technology,,False,169.0,True,unknown,n/a,False
+Dimagi,Technology,,False,170.0,True,unknown,n/a,False
+CKSource,Technology,,False,171.0,True,unknown,n/a,False
+Buro Happold,Professional Services,,False,172.0,True,unknown,n/a,False
+Infragistics,Technology,,False,173.0,True,unknown,n/a,False
+H2O.ai,Technology,,False,174.0,True,unknown,n/a,False
+StreamNative,Technology,,False,175.0,True,unknown,n/a,False
+Mellanox Technologies,Media & Telecoms,,False,176.0,True,unknown,n/a,False
+Bitrise,Technology,,False,177.0,True,unknown,n/a,False
+Graylog,Technology,,False,178.0,True,unknown,n/a,False
+VTEX,Technology,,False,179.0,True,unknown,n/a,False
+Test.com,Technology,,False,180.0,True,unknown,n/a,False
+Siemens,Technology,Germany,False,181.0,True,10273140910.0,Siemens (Adopter),True
+Kinvolk,Technology,,False,182.0,True,unknown,n/a,False
+Azavea,Technology,,False,183.0,True,unknown,n/a,False
+Softwire,Technology,,False,184.0,True,unknown,n/a,False
+Optum,Healthcare & Pharma,United States,False,185.0,True,465958141952.0,Optum (Adopter),True
+Financial Times,Media & Telecoms,,False,186.0,True,unknown,n/a,False
+Chef,Technology,,False,187.0,True,unknown,n/a,False
+LabKey,Technology,,False,188.0,True,unknown,n/a,False
+Block.one,Technology,,False,189.0,True,unknown,n/a,False
+Travis CI,Technology,,False,190.0,True,unknown,n/a,False
+SmartBear,Technology,,False,191.0,True,unknown,n/a,False
+Silverstripe,Technology,,False,192.0,True,unknown,n/a,False
+Cozy,Technology,,False,193.0,True,unknown,n/a,False
+datavisyn,Healthcare & Pharma,,False,194.0,True,unknown,n/a,False
+Luxoft,Technology,,False,195.0,True,unknown,n/a,False
+Rackspace,Technology,,False,196.0,True,unknown,n/a,False
+Nuxeo,Technology,,False,197.0,True,unknown,n/a,False
+Maykin Media,Technology,,False,198.0,True,unknown,n/a,False
+Belledonne Communications,Media & Telecoms,,False,199.0,True,unknown,n/a,False
+The Dextrous Web,Public sector,,False,200.0,True,unknown,n/a,False
+Linutronix,Technology,,False,201.0,True,unknown,n/a,False
+Enalean,Technology,,False,202.0,True,unknown,n/a,False
+Julia Computing,Technology,,False,203.0,True,unknown,n/a,False
+Tensor,Technology,,False,204.0,True,unknown,n/a,False
+Yahoo,Technology,,False,205.0,True,unknown,n/a,False
+Lightcurve,Technology,,False,206.0,True,unknown,n/a,False
+Finbourne,"Banking, Insurance & Financial Services",,False,207.0,True,unknown,n/a,False
+Flatiron school,Education,,False,208.0,True,unknown,n/a,False
+Bootlin,Technology,,False,209.0,True,unknown,n/a,False
+Pixel & Tonic,Technology,,False,210.0,True,unknown,n/a,False
+Indexdata,Technology,,False,211.0,True,unknown,n/a,False
+Algolia,Technology,,False,212.0,True,unknown,n/a,False
+Robotis,Technology,,False,213.0,True,unknown,n/a,False
+Endlessm,Technology,,False,214.0,True,unknown,n/a,False
+iXsystems,Technology,,False,215.0,True,unknown,n/a,False
+Kakao,Media & Telecoms,,False,216.0,True,unknown,n/a,False
+CloudCannon,Technology,,False,217.0,True,unknown,n/a,False
+Eficent,Professional Services,,False,218.0,True,unknown,n/a,False
+eyeo,Technology,,False,219.0,True,unknown,n/a,False
+itemis,Technology,,False,220.0,True,unknown,n/a,False
+Digital Bazaar,Technology,,False,221.0,True,unknown,n/a,False
+Buoyant,Technology,,False,222.0,True,unknown,n/a,False
+GatsbyJS,Technology,,False,223.0,True,unknown,n/a,False
+Forestry.io,Technology,,False,224.0,True,unknown,n/a,False
+mySociety,Professional Services,,False,225.0,True,unknown,n/a,False
+TeamDev,Technology,,False,226.0,True,unknown,n/a,False
+D2iQ,Technology,,False,227.0,True,unknown,n/a,False
+XWiki SAS,Technology,,False,228.0,True,unknown,n/a,False
+Scania,Technology,Sweden,False,229.0,True,unknown,Scania (Adopter),True
+Autonomous,Technology,,False,230.0,True,unknown,n/a,False
+CS Group,Technology,,False,231.0,True,unknown,n/a,False
+Plotly,Technology,,False,232.0,True,unknown,n/a,False
+OnGres,Technology,,False,233.0,True,unknown,n/a,False
+Opencast Software,Technology,,False,234.0,True,unknown,n/a,False
+Binary Group,Professional Services,,False,235.0,True,unknown,n/a,False
+Nymea,Technology,,False,236.0,True,unknown,n/a,False
+Galera Cluster,Technology,,False,237.0,True,unknown,n/a,False
+Bitnami,Technology,,False,238.0,True,unknown,n/a,False
+Sonymobile,Media & Telecoms,,False,239.0,True,unknown,n/a,False
+commercetools,Technology,,False,240.0,True,unknown,n/a,False
+SignalFx,Technology,,False,241.0,True,unknown,n/a,False
+Obvious,Professional Services,,False,242.0,True,unknown,n/a,False
+Nexedi,Technology,,False,243.0,True,unknown,n/a,False
+Loodos Tech,Technology,,False,244.0,True,unknown,n/a,False
+PTFS Europe,Technology,,False,245.0,True,unknown,n/a,False
+Joyent,Technology,,False,246.0,True,unknown,n/a,False
+OpenLattice,Technology,,False,247.0,True,unknown,n/a,False
+Bjerk,Technology,,False,249.0,True,unknown,n/a,False
+Switch Software,Technology,,False,250.0,True,unknown,n/a,False
+Decred,Technology,,False,251.0,True,unknown,n/a,False
+ReTest,Technology,,False,252.0,True,unknown,n/a,False
+Yunion,Technology,,False,253.0,True,unknown,n/a,False
+Atomist,Technology,,False,254.0,True,unknown,n/a,False
+Atypon,Technology,,False,255.0,True,unknown,n/a,False
+Toucan Toco,Technology,,False,256.0,True,unknown,n/a,False
+Polidea,Technology,,False,257.0,True,unknown,n/a,False
+JankariTech,Technology,,False,258.0,True,unknown,n/a,False
+Shopsys,Technology,,False,259.0,True,unknown,n/a,False
+Origin,Technology,,False,260.0,True,unknown,n/a,False
+Andela,Technology,,False,261.0,True,unknown,n/a,False
+Infosiftr,Technology,,False,262.0,True,unknown,n/a,False
+Abilian,Technology,,False,263.0,True,unknown,n/a,False
+Golden Dimension,"Banking, Insurance & Financial Services",,False,264.0,True,unknown,n/a,False
+feenk,Technology,,False,265.0,True,unknown,n/a,False
+East Agile,Technology,,False,266.0,True,unknown,n/a,False
+Devexperts,Technology,,False,267.0,True,unknown,n/a,False
+PTV Group,Technology,,False,268.0,True,unknown,n/a,False
+B2CK,Technology,,False,269.0,True,unknown,n/a,False
+EuroLinux,Technology,,False,270.0,True,unknown,n/a,False
+Navigine,Technology,,False,271.0,True,unknown,n/a,False
+SYSOP,Technology,,False,272.0,True,unknown,n/a,False
+Tyro,"Banking, Insurance & Financial Services",,False,273.0,True,unknown,n/a,False
+Agaric,Technology,,False,274.0,True,unknown,n/a,False
+Pyup,Technology,,False,275.0,True,unknown,n/a,False
+5minds,Technology,,False,276.0,True,unknown,n/a,False
+Société Générale,"Banking, Insurance & Financial Services",,False,277.0,True,unknown,n/a,False
+SecOps Solutions,Technology,,False,278.0,True,unknown,n/a,False
+what.,Technology,,False,279.0,True,unknown,n/a,False
+metas,Technology,,False,280.0,True,unknown,n/a,False
+Renovateapp,Technology,,False,281.0,True,unknown,n/a,False
+Blockchain Foundry,Technology,,False,282.0,True,unknown,n/a,False
+ManpowerGroup,Technology,,False,283.0,True,unknown,n/a,False
+WolfVision,Technology,,False,284.0,True,unknown,n/a,False
+4teamwork,Technology,,False,285.0,True,unknown,n/a,False
+Pilz,Technology,,False,286.0,True,unknown,n/a,False
+WarnerMedia,Media & Telecoms,,False,287.0,True,unknown,n/a,False
+QualityKiosk,Technology,,False,288.0,True,unknown,n/a,False
+Povio,Technology,,False,289.0,True,unknown,n/a,False
+Insolar Technologies,Technology,,False,290.0,True,unknown,n/a,False
+Shopkeep,Technology,,False,291.0,True,unknown,n/a,False
+SuperSoftware,Technology,,False,292.0,True,unknown,n/a,False
+Devox Software,Technology,,False,293.0,True,unknown,n/a,False
+Lynx,Technology,,False,294.0,True,unknown,n/a,False
+Nevion,Media & Telecoms,,False,295.0,True,unknown,n/a,False
+Motion Picture,Media & Telecoms,,False,296.0,True,unknown,n/a,False
+Polyapp,Technology,,False,297.0,True,unknown,n/a,False
+Talan,Professional Services,,False,298.0,True,unknown,n/a,False
+Aiven,unknown,Finland,False,n/a,False,unknown,Aiven (Adopter),True
+Alibaba Group,unknown,China,False,n/a,False,269228400660.0,Alibaba (Adopter),True
+Alliander,unknown,The Netherlands,False,n/a,False,unknown,Alliander (Adopter),True
+Arm Holdings,unknown,United Kingdom,False,n/a,False,unknown,ARM (Adopter),True
+Avanade,unknown,United States,False,n/a,False,2087771176960.0,Avanade (Adopter),True
+AWS,unknown,United States,False,n/a,False,unknown,AWS (Adopter),True
+Itau Unibanco,unknown,Brazil,False,n/a,False,unknown,Banco Itaú (Adopter),True
+Bayerische Motoren Werke,unknown,Germany,False,n/a,False,unknown,BMW (Adopter),True
+The Boeing Company,unknown,United States,False,n/a,False,90352099328.0,Boeing (Adopter),True
+Box,unknown,United States,False,n/a,False,4402399744.0,Box (Adopter),True
+Capital One,unknown,United States,False,n/a,False,51953790976.0,Capital One (Adopter),True
+Change Healthcare,unknown,United States,False,n/a,False,7388748800.0,Change Healthcare (Adopter),True
+Chef Software,unknown,United States,False,n/a,False,unknown,Chef (Adopter),True
+China Mobile,unknown,China,False,n/a,False,142667235837.0,China  Mobile (Adopter),True
+Cisco,unknown,United States,False,n/a,False,208227778560.0,Cisco (Adopter),True
+Datadog,unknown,United States,False,n/a,False,33496272896.0,Datadog (Adopter),True
+Dell Technologies,unknown,United States,False,n/a,False,unknown,Dell Technologies (Adopter),True
+Deutsche Bahn,unknown,Germany,False,n/a,False,unknown,Deutsche Bahn (Adopter),True
+Didi Labs,unknown,United States,False,n/a,False,unknown,Didi (Adopter),True
+DigitalOcean,unknown,United States,False,n/a,False,4048072704.0,DigitalOcean (Adopter),True
+Dropbox,unknown,United States,False,n/a,False,8088215040.0,Dropbox (Adopter),True
+EPAM Systems,unknown,United States,False,n/a,False,16812038144.0,EPAM (Adopter),True
+Esri,unknown,United States,False,n/a,False,unknown,ESRI (Adopter),True
+F5,unknown,United States,False,n/a,False,10502849536.0,F5 (Adopter),True
+Fannie Mae,unknown,United States,False,n/a,False,888533120.0,Fannie Mae (Adopter),True
+Freddie Mac,unknown,United States,False,n/a,False,485659840.0,Freddie Mac (Adopter),True
+HCL Software,unknown,India,False,n/a,False,unknown,HCL Software (Adopter),True
+HERE Technologies Chicago,unknown,United States,False,n/a,False,unknown,Here Technologies (Adopter),True
+Huawei Technologies,unknown,China,False,n/a,False,unknown,Huawei (Adopter),True
+Indeed,unknown,United States,False,n/a,False,unknown,Indeed (Adopter),True
+ITRenew,unknown,United States,False,n/a,False,unknown,ITRenew (Adopter),True
+Johns Hopkins Applied Physics Lab,unknown,United States,False,n/a,False,unknown,John Hopkins University (Adopter),True
+Juniper Innovating Travel Technology,unknown,Spain,False,n/a,False,unknown,Juniper (Adopter),True
+Khan Academy,unknown,United States,False,n/a,False,unknown,Khan Academy (Adopter),True
+Meta,unknown,United States,False,n/a,False,565512634368.0,Meta (Adopter),True
+National Instruments,unknown,United States,False,n/a,False,4715076608.0,National Instruments (Adopter),True
+NGINX,unknown,United States,False,n/a,False,unknown,NGINX (Adopter),True
+Nokia,unknown,Finland,False,n/a,False,unknown,Nokia (Adopter),True
+Pinterest,unknown,United States,False,n/a,False,14732684288.0,Pinterest (Adopter),True
+Porsche,unknown,Germany,False,n/a,False,unknown,Porsche (Adopter),True
+QingCloud,unknown,China,False,n/a,False,220846282.0,Qingcloud (Adopter),True
+Rochester Institute of Technology,unknown,United States,False,n/a,False,unknown,Rochester Institute of Technology (Adopter),True
+Samsung Pay,unknown,United States,False,n/a,False,unknown,Samsung (Adopter),True
+Sauce Labs,unknown,United States,False,n/a,False,unknown,Sauce Labs (Adopter),True
+Slack,unknown,United States,False,n/a,False,26519519232.0,Slack (Adopter),True
+Spotify,unknown,Sweden,False,n/a,False,20336121856.0,Spotify (Adopter),True
+Target,unknown,United States,False,n/a,False,107702190080.0,Target (Adopter),True
+Toyota Motor,unknown,Japan,False,n/a,False,237550780416.0,Toyota (Adopter),True
+"Trinity College, Dublin",unknown,Ireland,False,n/a,False,unknown,Trinity College Dublin (Adopter),True
+Two Sigma,unknown,United States,False,n/a,False,unknown,Two Sigma (Adopter),True
+"University of California, Santa Cruz",unknown,United States,False,n/a,False,unknown,University of Santa Cruz (Adopter),True
+US Bank,unknown,United States,False,n/a,False,73341526016.0,US Bank (Adopter),True
+Walmart Labs,unknown,United States,False,n/a,False,421450645504.0,WalmartLabs (Adopter),True
+Wayfair,unknown,United States,False,n/a,False,9014573056.0,Wayfair (Adopter),True
+Wipro Technologies,unknown,India,False,n/a,False,35257622179.0,Wipro (Adopter),True
