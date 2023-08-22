@@ -1,0 +1,910 @@
+company,sector,country,website,market cap,in S&P 500,in TODO landscape,in OSCI,in OSPO++ landscape,in OSPO Alliance,TODO status,OSCI position
+3M,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+A. O. Smith,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Abbott,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+AbbVie,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Accenture,Technology,United States,unknown,unknown,True,False,True,False,False,na,66.0
+Activision Blizzard,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+ADM,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Adobe Inc.,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+ADP,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Advance Auto Parts,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+AES Corporation,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Aflac,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Agilent Technologies,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Air Products and Chemicals,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Akamai,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Alaska Air Group,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Albemarle Corporation,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Alexandria Real Estate Equities,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Align Technology,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Allegion,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Alliant Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Allstate,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Altria,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Amazon,Consumer Discretionary,United States,unknown,unknown,True,False,True,False,False,na,5.0
+Amcor,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+AMD,Technology,United States,unknown,unknown,True,False,True,False,False,na,16.0
+Ameren,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+American Airlines Group,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+American Electric Power,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+American Express,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+American International Group,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+American Tower,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+American Water Works,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Ameriprise Financial,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+AmerisourceBergen,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Ametek,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Amgen,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Amphenol,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Analog Devices,Technology,United States,unknown,unknown,True,False,True,False,False,na,50.0
+Ansys,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Aon,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+APA Corporation,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Apple Inc.,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Applied Materials,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Aptiv,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Arch Capital Group,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Arista Networks,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Arthur J. Gallagher & Co.,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Assurant,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+AT&T,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Atmos Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Autodesk,Technology,United States,unknown,41814491136.0,True,True,True,False,False,Autodesk (Adopter),110.0
+AutoZone,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+AvalonBay Communities,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Avery Dennison,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Axon Enterprise,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Baker Hughes,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Ball Corporation,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Bank of America,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+"Bath & Body Works, Inc.",Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Baxter International,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Becton Dickinson,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Berkley,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Berkshire Hathaway,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Best Buy,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Bio-Rad,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Bio-Techne,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Biogen,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+BlackRock,"Banking, Insurance & Financial Services ",United States,unknown,102067314688.0,True,True,False,False,False,BlackRock (Adopter),na
+BNY Mellon,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Boeing,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Booking Holdings,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+BorgWarner,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Boston Properties,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Boston Scientific,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Bristol Myers Squibb,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Broadcom Inc.,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Broadridge Financial Solutions,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Brown & Brown,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Brown–Forman,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Bunge Limited,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+C.H. Robinson,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Cadence Design Systems,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Caesars Entertainment,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Camden Property Trust,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Campbell Soup Company,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Capital One,"Banking, Insurance & Financial Services ",United States,unknown,36900204544.0,True,True,False,False,False,Capital One (Adopter),na
+Cardinal Health,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+CarMax,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Carnival,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Carrier Global,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Catalent,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Caterpillar Inc.,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Cboe Global Markets,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+CBRE Group,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+CDW,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Celanese,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Centene Corporation,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+CenterPoint Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Ceridian,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+CF Industries,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Charles River Laboratories,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Charles Schwab Corporation,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Charter Communications,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Chevron Corporation,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Chipotle Mexican Grill,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Chubb Limited,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Church & Dwight,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Cigna,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Cincinnati Financial,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Cintas,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Cisco,Technology,United States,unknown,192073482240.0,True,True,False,False,False,Cisco (Adopter),na
+Citigroup,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Citizens Financial Group,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Clorox,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+CME Group,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+CMS Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Coca-Cola Company (The),Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Cognizant,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Colgate-Palmolive,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Comcast,Communication Services,United States,unknown,158568153088.0,True,True,False,False,False,Comcast (Adopter),na
+Comerica,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Conagra Brands,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+ConocoPhillips,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Consolidated Edison,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Constellation Brands,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Constellation Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+CooperCompanies,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Copart,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Corning Inc.,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Corteva,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+CoStar Group,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Costco,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Coterra,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Crown Castle,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+CSX,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Cummins,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+CVS Health,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+D.R. Horton,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Danaher Corporation,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Darden Restaurants,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+DaVita Inc.,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+John Deere,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Delta Air Lines,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Dentsply Sirona,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Devon Energy,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Dexcom,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Diamondback Energy,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Digital Realty,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Discover Financial,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Disney,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Dollar General,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Dollar Tree,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Dominion Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Domino's,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Dover Corporation,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Dow Inc.,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+DTE Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Duke Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+DuPont,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+DXC Technology,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Eastman Chemical Company,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Eaton Corporation,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+eBay,Consumer Discretionary,United States,unknown,23182479360.0,True,True,True,False,False,eBay (Adopter),158.0
+Ecolab,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Edison International,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Edwards Lifesciences,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Electronic Arts,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Elevance Health,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Eli Lilly and Company,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Emerson Electric,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Enphase,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Entergy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+EOG Resources,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+EPAM Systems,Technology,United States,unknown,16298648576.0,True,True,True,False,False,EPAM (Adopter),25.0
+EQT,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Equifax,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Equinix,Real Estate,United States,unknown,66591817728.0,True,True,False,False,False,Equinix (Adopter),na
+Equity Residential,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Essex Property Trust,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Estée Lauder Companies (The),Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Etsy,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Everest Re,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Evergy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Eversource,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Exelon,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Expedia Group,Consumer Discretionary,United States,unknown,unknown,True,False,True,False,False,na,182.0
+Expeditors International,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Extra Space Storage,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+ExxonMobil,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+"F5, Inc.",Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+FactSet,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Fair Isaac,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Fastenal,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Federal Realty,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+FedEx,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Fifth Third Bank,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+First Solar,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+FirstEnergy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+FIS,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Fiserv,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Fleetcor,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+FMC Corporation,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Ford Motor Company,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Fortinet,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Fortive,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Fox Corporation (Class A),Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Fox Corporation (Class B),Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Franklin Templeton,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Freeport-McMoRan,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Garmin,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Gartner,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+GE HealthCare,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Gen Digital,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Generac,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+General Dynamics,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+General Electric,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+General Mills,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+General Motors,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Genuine Parts Company,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Gilead Sciences,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Globe Life,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Global Payments,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Goldman Sachs,"Banking, Insurance & Financial Services ",United States,unknown,113710637056.0,True,True,True,False,False,Goldman Sachs (Adopter),216.0
+Halliburton,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Hartford (The),"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Hasbro,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+HCA Healthcare,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Healthpeak,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Henry Schein,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Hershey's,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Hess Corporation,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Hewlett Packard Enterprise,Technology,United States,unknown,18679965696.0,True,True,True,False,False,HPE (Adopter),35.0
+Hilton Worldwide,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Hologic,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Home Depot (The),Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Honeywell,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Hormel Foods,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Host Hotels & Resorts,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Howmet Aerospace,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+HP Inc.,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Humana,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Huntington Bancshares,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Huntington Ingalls Industries,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+IBM,Technology,United States,unknown,113978957824.0,True,True,True,False,False,IBM (Adopter),6.0
+IDEX Corporation,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Idexx Laboratories,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Illinois Tool Works,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Illumina,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Incyte,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Ingersoll Rand,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Insulet,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Intel,Technology,United States,unknown,126862491648.0,True,True,True,False,False,Intel (Adopter),4.0
+Intercontinental Exchange,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+International Flavors & Fragrances,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+International Paper,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Interpublic Group of Companies (The),Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Intuit,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Intuitive Surgical,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Invesco,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Invitation Homes,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+IQVIA,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Iron Mountain,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+J.B. Hunt,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Jack Henry & Associates,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Jacobs Solutions,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Johnson & Johnson,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Johnson Controls,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+JPMorgan Chase,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Juniper Networks,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Kellogg's,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Keurig Dr Pepper,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+KeyCorp,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Keysight,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Kimberly-Clark,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Kimco Realty,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Kinder Morgan,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+KLA Corporation,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Kraft Heinz,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Kroger,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+L3Harris,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+LabCorp,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Lam Research,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Lamb Weston,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Las Vegas Sands,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Leidos,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Lennar,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Lincoln Financial,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Linde plc,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Live Nation Entertainment,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+LKQ Corporation,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Lockheed Martin,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Loews Corporation,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Lowe's,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+LyondellBasell,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+M&T Bank,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Marathon Oil,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Marathon Petroleum,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+MarketAxess,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Marriott International,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Marsh McLennan,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Martin Marietta Materials,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Masco,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Mastercard,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Match Group,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+McCormick & Company,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+McDonald's,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+McKesson,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Medtronic,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Merck & Co.,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Meta Platforms,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+MetLife,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Mettler Toledo,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+MGM Resorts,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Microchip Technology,Technology,United States,unknown,unknown,True,False,True,False,False,na,95.0
+Micron Technology,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Microsoft,Technology,United States,https://opensource-dev.microsoft.com/ospo/,2126544764928.0,True,True,True,False,True,Microsoft (Adopter),2.0
+Mid-America Apartment Communities,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Moderna,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Mohawk Industries,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Molina Healthcare,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Molson Coors Beverage Company,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Mondelez International,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Monolithic Power Systems,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Monster Beverage,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Moody's Corporation,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Morgan Stanley,"Banking, Insurance & Financial Services ",United States,unknown,151677747200.0,True,True,False,False,False,Morgan Stanley (Adopter),na
+Mosaic Company (The),Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Motorola Solutions,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+MSCI,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+"Nasdaq, Inc.","Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+NetApp,Technology,United States,unknown,13495458816.0,True,True,False,False,False,Netapp (Adopter),na
+Netflix,Communication Services,United States,unknown,145292230656.0,True,True,True,False,False,Netflix (Adopter),86.0
+Newell Brands,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Newmont,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+News Corp (Class A),Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+News Corp (Class B),Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+NextEra Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+"Nike, Inc.",Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+NiSource,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Nordson Corporation,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Norfolk Southern Railway,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Northern Trust,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Northrop Grumman,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Norwegian Cruise Line Holdings,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+NRG Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Nucor,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Nvidia,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+"NVR, Inc.",Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+NXP Semiconductors,Technology,United States,unknown,unknown,True,False,True,False,False,na,63.0
+O'Reilly Auto Parts,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Occidental Petroleum,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Old Dominion,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Omnicom Group,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+ON Semiconductor,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+ONEOK,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Oracle Corporation,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Organon & Co.,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Otis Worldwide,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Paccar,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Packaging Corporation of America,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Palo Alto Networks,Technology,United States,unknown,unknown,True,False,True,False,False,na,49.0
+Paramount Global,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Parker Hannifin,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Paychex,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Paycom,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+PayPal,"Banking, Insurance & Financial Services ",United States,unknown,82767937536.0,True,True,False,False,False,Paypal (Adopter),na
+Pentair,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+PepsiCo,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Pfizer,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+PG&E Corporation,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Philip Morris International,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Phillips 66,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Pinnacle West,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Pioneer Natural Resources,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+PNC Financial Services,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Pool Corporation,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+PPG Industries,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+PPL Corporation,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Principal Financial Group,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Procter & Gamble,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Progressive Corporation,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Prologis,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Prudential Financial,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Public Service Enterprise Group,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+PTC,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Public Storage,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+PulteGroup,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Qorvo,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Quanta Services,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Qualcomm,Technology,United States,unknown,131150315520.0,True,True,False,False,False,Qualcomm (Adopter),na
+Quest Diagnostics,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Ralph Lauren Corporation,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Raymond James,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+RTX Corporation,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Realty Income,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Regency Centers,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Regeneron,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Regions Financial Corporation,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Republic Services,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+ResMed,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Revvity,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Robert Half,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Rockwell Automation,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+"Rollins, Inc.",Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Roper Technologies,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Ross Stores,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Royal Caribbean Group,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+S&P Global,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Salesforce,Technology,United States,unknown,198721601536.0,True,True,True,False,False,Salesforce (Adopter),38.0
+SBA Communications,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Schlumberger,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Seagate Technology,Technology,United States,unknown,11641679872.0,True,True,False,False,False,Seagate (Adopter),na
+Sealed Air,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Sempra Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+ServiceNow,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Sherwin-Williams,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Simon Property Group,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Skyworks Solutions,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+J.M. Smucker Company (The),Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Snap-on,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+SolarEdge,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Southern Company,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Southwest Airlines,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Stanley Black & Decker,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Starbucks,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+State Street Corporation,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Steel Dynamics,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Steris,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Stryker Corporation,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Synchrony Financial,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Synopsys,Technology,United States,unknown,unknown,True,False,True,False,False,na,123.0
+Sysco,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+T-Mobile US,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+T. Rowe Price,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Take-Two Interactive,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+"Tapestry, Inc.",Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Targa Resources,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Target Corporation,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+TE Connectivity,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Teledyne Technologies,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Teleflex,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Teradyne,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+"Tesla, Inc.",Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Texas Instruments,Technology,United States,unknown,unknown,True,False,True,False,False,na,114.0
+Textron,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Thermo Fisher Scientific,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+TJX Companies,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Tractor Supply,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Trane Technologies,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+TransDigm Group,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Travelers Companies (The),"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Trimble Inc.,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Truist,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Tyler Technologies,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Tyson Foods,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+U.S. Bank,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+"UDR, Inc.",Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Ulta Beauty,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Union Pacific Corporation,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+United Airlines Holdings,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+United Parcel Service,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+United Rentals,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+UnitedHealth Group,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Universal Health Services,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Valero Energy,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Ventas,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Verisign,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Verisk,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Verizon,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Vertex Pharmaceuticals,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+VF Corporation,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Viatris,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Vici Properties,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Visa Inc.,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Vulcan Materials Company,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Wabtec,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Walgreens Boots Alliance,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Walmart,Consumer Staples,United States,unknown,unknown,True,False,False,False,False,na,na
+Warner Bros. Discovery,Communication Services,United States,unknown,unknown,True,False,False,False,False,na,na
+Waste Management,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Waters Corporation,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+WEC Energy Group,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Wells Fargo,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Welltower,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+West Pharmaceutical Services,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Western Digital,Technology,United States,unknown,10605131326.0,True,True,False,False,False,Western Digital (Adopter),na
+WestRock,Materials,United States,unknown,unknown,True,False,False,False,False,na,na
+Weyerhaeuser,Real Estate,United States,unknown,unknown,True,False,False,False,False,na,na
+Whirlpool Corporation,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Williams Companies,Energy,United States,unknown,unknown,True,False,False,False,False,na,na
+Willis Towers Watson,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+W. W. Grainger,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Wynn Resorts,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Xcel Energy,Utilities,United States,unknown,unknown,True,False,False,False,False,na,na
+Xylem Inc.,Industrials,United States,unknown,unknown,True,False,False,False,False,na,na
+Yum! Brands,Consumer Discretionary,United States,unknown,unknown,True,False,False,False,False,na,na
+Zebra Technologies,Technology,United States,unknown,unknown,True,False,False,False,False,na,na
+Zimmer Biomet,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Zions Bancorporation,"Banking, Insurance & Financial Services ",United States,unknown,unknown,True,False,False,False,False,na,na
+Zoetis,Healthcare & Pharma,United States,unknown,unknown,True,False,False,False,False,na,na
+Google,Technology,United States,unknown,1352987181056.0,True,True,True,False,False,Google (Adopter),1.0
+Red Hat,Technology,United States,unknown,113978957824.0,False,True,True,False,False,Red Hat (Adopter),3.0
+Oracle,Technology,unknown,unknown,unknown,False,False,True,False,False,na,7.0
+VMware,Technology,United States,unknown,54125973504.0,False,True,True,False,False,VMWare (Adopter),8.0
+SAP,Technology,Germany,https://developers.sap.com/open-source.html,156058009600.0,False,True,True,False,True,SAP (Adopter),9.0
+GitHub,Technology,United States,unknown,2126544764928.0,False,True,True,True,False,GitHub (Adopter),10.0
+NVidia,Technology,unknown,unknown,unknown,False,False,True,False,False,na,11.0
+SUSE,Technology,unknown,https://opensource.suse.com/,unknown,False,False,True,False,True,na,12.0
+Huawei,Media & Telecoms,unknown,https://www.huawei.com/,unknown,False,False,True,False,True,na,13.0
+Adobe,Technology,United States,unknown,172972900352.0,False,True,True,False,False,Adobe (Adopter),14.0
+Liferay,Technology,unknown,unknown,unknown,False,False,True,False,False,na,15.0
+Meta,Technology,United States,unknown,545746518016.0,False,True,True,False,False,Meta (Adopter),17.0
+Datadog,Technology,United States,unknown,21224837120.0,False,True,True,False,False,Datadog (Adopter),18.0
+JetBrains,Technology,unknown,unknown,unknown,False,False,True,False,False,na,19.0
+Odoo,Technology,unknown,unknown,unknown,False,False,True,False,False,na,20.0
+Elastic,Technology,United States,unknown,5824763904.0,False,True,True,False,False,Elastic (Adopter),21.0
+Mozilla,Technology,unknown,unknown,unknown,False,False,True,False,False,na,22.0
+ARM,Technology,unknown,unknown,unknown,False,False,True,False,False,na,23.0
+Alibaba,Technology,unknown,unknown,unknown,False,False,True,False,False,na,24.0
+Canonical,Technology,unknown,unknown,unknown,False,False,True,False,False,na,26.0
+mongoDB,Technology,unknown,unknown,unknown,False,False,True,False,False,na,27.0
+Tencent,Media & Telecoms,China,unknown,425442629449.0,False,True,True,False,False,Tencent (Adopter),28.0
+Cisco Systems,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,29.0
+Apple,Technology,United States,unknown,2610297044992.0,False,True,True,False,False,Apple (Adopter),30.0
+HashiCorp,Technology,unknown,unknown,unknown,False,False,True,False,False,na,31.0
+Yandex,Technology,unknown,unknown,unknown,False,False,True,False,False,na,32.0
+Shopify,Technology,unknown,unknown,unknown,False,False,True,False,False,na,33.0
+Automattic,Technology,unknown,unknown,unknown,False,False,True,False,False,na,34.0
+Nordic Semiconductor,Technology,unknown,unknown,unknown,False,False,True,False,False,na,36.0
+Samsung,Technology,unknown,unknown,unknown,False,False,True,False,False,na,37.0
+Grafana Labs,Technology,unknown,unknown,unknown,False,False,True,False,False,na,39.0
+Unity Technologies,Technology,unknown,unknown,unknown,False,False,True,False,False,na,40.0
+Espressif,Technology,unknown,unknown,unknown,False,False,True,False,False,na,41.0
+Baidu,Technology,China,unknown,43693846958.0,False,True,True,False,False,Baidu (Adopter),42.0
+New Relic,Technology,United States,unknown,5013341184.0,False,True,True,False,False,New Relic (Adopter),43.0
+QuickTrip,Technology,unknown,unknown,unknown,False,False,True,False,False,na,44.0
+SonarSource,Technology,unknown,unknown,unknown,False,False,True,False,False,na,45.0
+Cloudera,Technology,unknown,unknown,unknown,False,False,True,False,False,na,46.0
+Bosch,Technology,Germany,https://www.bosch.com/,unknown,False,True,True,False,True,Bosch (Adopter),47.0
+LinkedIn,Technology,unknown,unknown,unknown,False,False,True,False,False,na,48.0
+Cloudflare,Technology,unknown,unknown,unknown,False,False,True,False,False,na,51.0
+Sentry,Technology,unknown,unknown,unknown,False,False,True,False,False,na,52.0
+Linaro,Technology,unknown,unknown,unknown,False,False,True,False,False,na,53.0
+Cockroach Labs,Technology,unknown,unknown,unknown,False,False,True,False,False,na,54.0
+Couchbase,Technology,unknown,unknown,unknown,False,False,True,False,False,na,55.0
+Kitware,Technology,unknown,unknown,unknown,False,False,True,False,False,na,56.0
+ESRI,Technology,unknown,unknown,unknown,False,False,True,False,False,na,57.0
+Confluent,Technology,unknown,unknown,unknown,False,False,True,False,False,na,58.0
+Equinor,Energy & Utilities,unknown,unknown,unknown,False,False,True,False,False,na,59.0
+Thoughtworks,Technology,unknown,unknown,unknown,False,False,True,False,False,na,60.0
+Square,Technology,United States,unknown,37777129472.0,False,True,True,False,False,Square (Adopter),61.0
+WIX,Technology,unknown,unknown,unknown,False,False,True,False,False,na,62.0
+Splunk,Technology,unknown,unknown,unknown,False,False,True,False,False,na,64.0
+IOHK,Technology,unknown,unknown,unknown,False,False,True,False,False,na,65.0
+Collabora,Technology,unknown,unknown,unknown,False,False,True,False,False,na,67.0
+CGI,Technology,unknown,unknown,unknown,False,False,True,False,False,na,68.0
+Snyk,Technology,unknown,unknown,unknown,False,False,True,False,False,na,69.0
+Aiven,Technology,Finland,unknown,unknown,False,True,True,False,False,Aiven (Adopter),70.0
+Atlassian,Technology,unknown,unknown,unknown,False,False,True,False,False,na,71.0
+Instructure,Technology,unknown,unknown,unknown,False,False,True,False,False,na,72.0
+Igalia,Professional Services,unknown,unknown,unknown,False,False,True,False,False,na,73.0
+ONLYOFFICE,Technology,unknown,unknown,unknown,False,False,True,False,False,na,74.0
+Uber,Travel & Transport,United States,unknown,61473378304.0,False,True,True,False,False,Uber (Adopter),75.0
+RTE,Energy & Utilities,unknown,unknown,unknown,False,False,True,False,False,na,76.0
+Broadcom,Technology,unknown,unknown,unknown,False,False,True,False,False,na,77.0
+Wind River Systems,Technology,unknown,unknown,unknown,False,False,True,False,False,na,78.0
+Sony,Technology,Japan,unknown,114893897728.0,False,True,True,False,False,Sony (Adopter),79.0
+Capgemini,Professional Services,unknown,unknown,unknown,False,False,True,False,False,na,80.0
+Shopware,Technology,unknown,unknown,unknown,False,False,True,False,False,na,81.0
+Percona,Technology,unknown,unknown,unknown,False,False,True,False,False,na,82.0
+Siemens,Technology,Germany,unknown,126682098570.0,False,True,True,False,False,Siemens (Adopter),83.0
+Pivotal Software,Technology,unknown,unknown,unknown,False,False,True,False,False,na,84.0
+Camptocamp,Technology,unknown,unknown,unknown,False,False,True,False,False,na,85.0
+WSO2,Technology,unknown,unknown,unknown,False,False,True,False,False,na,87.0
+Bloomberg,"Banking, Insurance & Financial Services",United States,unknown,unknown,False,True,True,False,False,Bloomberg (Adopter),88.0
+ScyllaDB,Technology,unknown,unknown,unknown,False,False,True,False,False,na,89.0
+ConsenSys,Technology,unknown,unknown,unknown,False,False,True,False,False,na,90.0
+Orange,Media & Telecoms,unknown,https://www.orange.com/en,unknown,False,False,True,False,True,na,91.0
+Twilio,Technology,unknown,unknown,unknown,False,False,True,False,False,na,92.0
+Dynatrace,Technology,United States,unknown,12261584896.0,False,True,True,False,False,Dynatrace (Adopter),93.0
+Antmicro,Technology,unknown,unknown,unknown,False,False,True,False,False,na,94.0
+Mapbox,Technology,unknown,unknown,unknown,False,False,True,False,False,na,96.0
+T-Systems,Professional Services,unknown,unknown,unknown,False,False,True,False,False,na,97.0
+LG Electronics,Technology,unknown,unknown,unknown,False,False,True,False,False,na,98.0
+Okta,Technology,unknown,unknown,unknown,False,False,True,False,False,na,99.0
+MuleSoft,Technology,unknown,unknown,unknown,False,False,True,False,False,na,100.0
+Gradle,Technology,unknown,unknown,unknown,False,False,True,False,False,na,101.0
+GitLab,Technology,United States,unknown,5061011968.0,False,True,True,False,False,GitLab (Adopter),102.0
+Datadoghq,Technology,unknown,unknown,unknown,False,False,True,False,False,na,103.0
+Ericsson,Media & Telecoms,Sweden,unknown,17666392064.0,False,True,True,False,False,Ericsson (Adopter),104.0
+Palantir Technologies,Technology,unknown,unknown,unknown,False,False,True,False,False,na,105.0
+Camunda,Technology,Germany,unknown,unknown,False,True,True,False,False,Camunda (Adopter),106.0
+Talend,Technology,unknown,unknown,unknown,False,False,True,False,False,na,107.0
+MediaTek,Technology,unknown,unknown,unknown,False,False,True,False,False,na,108.0
+Ant Group,"Banking, Insurance & Financial Services",unknown,unknown,unknown,False,False,True,False,False,na,109.0
+Stripe,"Banking, Insurance & Financial Services",United States,unknown,unknown,False,True,True,False,False,Stripe (Adopter),111.0
+Spryker,Technology,unknown,unknown,unknown,False,False,True,False,False,na,112.0
+MariaDB,Technology,unknown,unknown,unknown,False,False,True,False,False,na,113.0
+Arbisoft,Technology,unknown,unknown,unknown,False,False,True,False,False,na,115.0
+Mendix,Technology,unknown,unknown,unknown,False,False,True,False,False,na,116.0
+SiFive,Technology,unknown,unknown,unknown,False,False,True,False,False,na,117.0
+PingCAP,Technology,unknown,unknown,unknown,False,False,True,False,False,na,118.0
+BBC,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,119.0
+Brave,Technology,unknown,unknown,unknown,False,False,True,False,False,na,120.0
+Tweag,Technology,unknown,unknown,unknown,False,False,True,False,False,na,121.0
+LINE Corporation,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,122.0
+Gofore,Technology,unknown,unknown,unknown,False,False,True,False,False,na,124.0
+Facebook,Technology,unknown,unknown,unknown,False,False,True,False,False,na,125.0
+Vaadin,Technology,unknown,unknown,unknown,False,False,True,False,False,na,126.0
+Made Tech,Technology,unknown,unknown,unknown,False,False,True,False,False,na,127.0
+Ad Hoc,Technology,unknown,unknown,unknown,False,False,True,False,False,na,128.0
+CircleCI,Technology,unknown,unknown,unknown,False,False,True,False,False,na,129.0
+Truss Works,Technology,unknown,unknown,unknown,False,False,True,False,False,na,130.0
+Giant Swarm,Technology,unknown,unknown,unknown,False,False,True,False,False,na,131.0
+Univention,Technology,unknown,unknown,unknown,False,False,True,False,False,na,132.0
+EPAM,Technology,unknown,unknown,unknown,False,False,True,False,False,na,133.0
+Digital Asset,"Banking, Insurance & Financial Services",unknown,unknown,unknown,False,False,True,False,False,na,134.0
+The Guardian,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,135.0
+RStudio,Technology,unknown,unknown,unknown,False,False,True,False,False,na,136.0
+Centreon,Technology,unknown,unknown,unknown,False,False,True,False,False,na,137.0
+SBK Kontur,Technology,unknown,unknown,unknown,False,False,True,False,False,na,138.0
+Docker,Technology,unknown,unknown,unknown,False,False,True,False,False,na,139.0
+Lyft,Travel & Transport,unknown,unknown,unknown,False,False,True,False,False,na,140.0
+SmartBear,Technology,unknown,unknown,unknown,False,False,True,False,False,na,141.0
+Solita,Technology,unknown,unknown,unknown,False,False,True,False,False,na,142.0
+Open Robotics,Technology,unknown,unknown,unknown,False,False,True,False,False,na,143.0
+Philips,Healthcare & Pharma,unknown,unknown,unknown,False,False,True,False,False,na,144.0
+Kaltura,Technology,unknown,unknown,unknown,False,False,True,False,False,na,145.0
+Scality,Technology,unknown,unknown,unknown,False,False,True,False,False,na,146.0
+Acsone,Technology,unknown,unknown,unknown,False,False,True,False,False,na,147.0
+Zalando,Technology,Germany,unknown,10644324627.0,False,True,True,False,False,Zalando (Adopter),148.0
+Adguard,Technology,unknown,unknown,unknown,False,False,True,False,False,na,149.0
+ArangoDB,Technology,unknown,unknown,unknown,False,False,True,False,False,na,150.0
+Citrix Systems,Technology,unknown,unknown,unknown,False,False,True,False,False,na,151.0
+BJISS,Professional Services,unknown,unknown,unknown,False,False,True,False,False,na,152.0
+Reaktor,Technology,unknown,unknown,unknown,False,False,True,False,False,na,153.0
+LunarG,Technology,unknown,unknown,unknown,False,False,True,False,False,na,154.0
+Puppet,Technology,unknown,unknown,unknown,False,False,True,False,False,na,155.0
+Kainos Group,Technology,unknown,unknown,unknown,False,False,True,False,False,na,156.0
+Dimagi,Technology,unknown,unknown,unknown,False,False,True,False,False,na,157.0
+Buro Happold,Professional Services,unknown,unknown,unknown,False,False,True,False,False,na,159.0
+Fujitsu,Technology,unknown,unknown,unknown,False,False,True,False,False,na,160.0
+STMicroelectronics,Technology,unknown,unknown,unknown,False,False,True,False,False,na,161.0
+Spotify,Technology,Sweden,unknown,25693646848.0,False,True,True,False,False,Spotify (Adopter),162.0
+StreamNative,Technology,unknown,unknown,unknown,False,False,True,False,False,na,163.0
+Linagora,Technology,unknown,https://linagora.com,unknown,False,False,True,False,True,na,164.0
+Nextcloud,Technology,unknown,unknown,unknown,False,False,True,False,False,na,165.0
+Graylog,Technology,unknown,unknown,unknown,False,False,True,False,False,na,166.0
+Verizon Media,Media & Telecoms,United States,unknown,156491988992.0,False,True,True,False,False,Verizon Media (Adopter),167.0
+Iohk,Technology,unknown,unknown,unknown,False,False,True,False,False,na,168.0
+Wire,Technology,unknown,unknown,unknown,False,False,True,False,False,na,169.0
+Cockroachlabs,Technology,unknown,unknown,unknown,False,False,True,False,False,na,170.0
+FARFETCH,unknown,unknown,unknown,unknown,False,False,True,False,False,na,171.0
+eXo Platform,Technology,unknown,unknown,unknown,False,False,True,False,False,na,172.0
+CloudBees,Technology,unknown,unknown,unknown,False,False,True,False,False,na,173.0
+Algolia,Technology,unknown,unknown,unknown,False,False,True,False,False,na,174.0
+plentymarkets,Technology,unknown,unknown,unknown,False,False,True,False,False,na,175.0
+Balena,Technology,unknown,unknown,unknown,False,False,True,False,False,na,176.0
+HERE Technologies,Technology,unknown,unknown,unknown,False,False,True,False,False,na,177.0
+Bitrise,Technology,unknown,unknown,unknown,False,False,True,False,False,na,178.0
+Akvelon,Technology,unknown,unknown,unknown,False,False,True,False,False,na,179.0
+Infragistics,Technology,unknown,unknown,unknown,False,False,True,False,False,na,180.0
+The Dextrous Web,Public sector,unknown,unknown,unknown,False,False,True,False,False,na,181.0
+CKSource,Technology,unknown,unknown,unknown,False,False,True,False,False,na,183.0
+XWiki SAS,Technology,unknown,unknown,unknown,False,False,True,False,False,na,184.0
+H2O.ai,Technology,unknown,unknown,unknown,False,False,True,False,False,na,185.0
+Grafana,Technology,unknown,unknown,unknown,False,False,True,False,False,na,186.0
+Sonarsource,Technology,unknown,unknown,unknown,False,False,True,False,False,na,187.0
+Pantheon Ventures,Technology,unknown,unknown,unknown,False,False,True,False,False,na,188.0
+Alliander,Technology,The Netherlands,unknown,unknown,False,True,True,False,False,Alliander (Adopter),189.0
+Yoast,Technology,unknown,unknown,unknown,False,False,True,False,False,na,190.0
+Lablup,Technology,unknown,unknown,unknown,False,False,True,False,False,na,191.0
+Belledonne Communications,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,192.0
+DigitalOcean,Technology,United States,unknown,3312023808.0,False,True,True,False,False,DigitalOcean (Adopter),193.0
+D2L,Technology,unknown,unknown,unknown,False,False,True,False,False,na,194.0
+LabKey,Technology,unknown,unknown,unknown,False,False,True,False,False,na,195.0
+Maykin Media,Technology,unknown,unknown,unknown,False,False,True,False,False,na,196.0
+Enalean,Technology,unknown,unknown,unknown,False,False,True,False,False,na,197.0
+Cloudfare,Technology,unknown,unknown,unknown,False,False,True,False,False,na,198.0
+ZTE,Technology,unknown,unknown,unknown,False,False,True,False,False,na,199.0
+Mellanox Technologies,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,200.0
+Pivotal,Technology,unknown,unknown,unknown,False,False,True,False,False,na,201.0
+VTEX,Technology,unknown,unknown,unknown,False,False,True,False,False,na,202.0
+Softwire,Technology,unknown,unknown,unknown,False,False,True,False,False,na,203.0
+OCTO Technology,Professional Services,unknown,unknown,unknown,False,False,True,False,False,na,204.0
+Twitter,Technology,United States,unknown,unknown,False,True,True,False,False,Twitter (Adopter),205.0
+Exoplatform,Technology,unknown,unknown,unknown,False,False,True,False,False,na,206.0
+Bootlin,Technology,unknown,unknown,unknown,False,False,True,False,False,na,207.0
+Sony Mobile,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,208.0
+Qt,Technology,unknown,unknown,unknown,False,False,True,False,False,na,209.0
+Financial Times,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,210.0
+Alfresco,Technology,unknown,unknown,unknown,False,False,True,False,False,na,211.0
+CloudCannon,Technology,unknown,unknown,unknown,False,False,True,False,False,na,212.0
+Atypon,Technology,unknown,unknown,unknown,False,False,True,False,False,na,213.0
+datavisyn,Healthcare & Pharma,unknown,unknown,unknown,False,False,True,False,False,na,214.0
+Buoyant,Technology,unknown,unknown,unknown,False,False,True,False,False,na,215.0
+Shopsys,Technology,unknown,unknown,unknown,False,False,True,False,False,na,217.0
+Silverstripe,Technology,unknown,unknown,unknown,False,False,True,False,False,na,218.0
+Robotis,Technology,unknown,unknown,unknown,False,False,True,False,False,na,219.0
+Linutronix,Technology,unknown,unknown,unknown,False,False,True,False,False,na,220.0
+iXsystems,Technology,unknown,unknown,unknown,False,False,True,False,False,na,221.0
+itemis,Technology,unknown,unknown,unknown,False,False,True,False,False,na,222.0
+Cozy Cloud,Technology,unknown,unknown,unknown,False,False,True,False,False,na,223.0
+WarnerMedia,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,224.0
+Tensor,Technology,unknown,unknown,unknown,False,False,True,False,False,na,225.0
+Lightcurve,Technology,unknown,unknown,unknown,False,False,True,False,False,na,226.0
+Azavea,Technology,unknown,unknown,unknown,False,False,True,False,False,na,227.0
+Index Data,Technology,unknown,unknown,unknown,False,False,True,False,False,na,228.0
+JuliaHub,Technology,unknown,unknown,unknown,False,False,True,False,False,na,229.0
+OnGres,Technology,unknown,unknown,unknown,False,False,True,False,False,na,230.0
+Kakao,Media & Telecoms,unknown,unknown,unknown,False,False,True,False,False,na,231.0
+Test.com,Technology,unknown,unknown,unknown,False,False,True,False,False,na,232.0
+Luxoft,Technology,unknown,unknown,unknown,False,False,True,False,False,na,233.0
+Travis CI,Technology,unknown,unknown,unknown,False,False,True,False,False,na,234.0
+Eficent,Technology,unknown,unknown,unknown,False,False,True,False,False,na,235.0
+Plotly,Technology,unknown,unknown,unknown,False,False,True,False,False,na,236.0
+Pixel & Tonic,Technology,unknown,unknown,unknown,False,False,True,False,False,na,237.0
+Palantir,Technology,unknown,unknown,unknown,False,False,True,False,False,na,238.0
+Optum,Healthcare & Pharma,United States,unknown,452220878848.0,False,True,True,False,False,Optum (Adopter),239.0
+Uninvention,Technology,unknown,unknown,unknown,False,False,True,False,False,na,240.0
+Chef,Technology,unknown,unknown,unknown,False,False,True,False,False,na,241.0
+Opencast Software,Technology,unknown,unknown,unknown,False,False,True,False,False,na,242.0
+PTFS Europe,Technology,unknown,unknown,unknown,False,False,True,False,False,na,243.0
+mySociety,Technology,unknown,unknown,unknown,False,False,True,False,False,na,244.0
+TeamDev,Technology,unknown,unknown,unknown,False,False,True,False,False,na,245.0
+ThoughtWorks,Technology,unknown,unknown,unknown,False,False,True,False,False,na,246.0
+Rackspace Technology,Technology,unknown,unknown,unknown,False,False,True,False,False,na,247.0
+tweag.io,Technology,unknown,unknown,unknown,False,False,True,False,False,na,248.0
+Citrix,Technology,unknown,unknown,unknown,False,False,True,False,False,na,249.0
+Nuxeo,Technology,unknown,unknown,unknown,False,False,True,False,False,na,250.0
+Scania,Technology,Sweden,unknown,unknown,False,True,True,False,False,Scania (Adopter),251.0
+Flatiron School,Education,unknown,unknown,unknown,False,False,True,False,False,na,252.0
+Galera Cluster,Technology,unknown,unknown,unknown,False,False,True,False,False,na,253.0
+Digital Bazaar,Technology,unknown,unknown,unknown,False,False,True,False,False,na,254.0
+NXP,Technology,unknown,unknown,unknown,False,False,True,False,False,na,255.0
+Finbourne,"Banking, Insurance & Financial Services",unknown,unknown,unknown,False,False,True,False,False,na,256.0
+CS Group,Technology,unknown,unknown,unknown,False,False,True,False,False,na,257.0
+Binary Group,Professional Services,unknown,unknown,unknown,False,False,True,False,False,na,258.0
+Cozy,Technology,unknown,unknown,unknown,False,False,True,False,False,na,259.0
+Nexedi,Technology,unknown,unknown,unknown,False,False,True,False,False,na,260.0
+Yahoo,Technology,unknown,unknown,unknown,False,False,True,False,False,na,261.0
+Bjerk,Technology,unknown,unknown,unknown,False,False,True,False,False,na,262.0
+Toucan Toco,Technology,unknown,unknown,unknown,False,False,True,False,False,na,263.0
+HotWax,Technology,unknown,unknown,unknown,False,False,True,False,False,na,264.0
+Endless OS,Technology,unknown,unknown,unknown,False,False,True,False,False,na,265.0
+Pantheon,Technology,unknown,unknown,unknown,False,False,True,False,False,na,266.0
+Cloudbees,Technology,unknown,unknown,unknown,False,False,True,False,False,na,267.0
+Gatsby,Technology,unknown,unknown,unknown,False,False,True,False,False,na,268.0
+Julia Computing,Technology,unknown,unknown,unknown,False,False,True,False,False,na,269.0
+Nymea,Technology,unknown,unknown,unknown,False,False,True,False,False,na,270.0
+Société Générale,"Banking, Insurance & Financial Services",unknown,unknown,unknown,False,False,True,False,False,na,271.0
+PTV Group,Technology,unknown,unknown,unknown,False,False,True,False,False,na,272.0
+Atomist,Technology,unknown,unknown,unknown,False,False,True,False,False,na,273.0
+Golden Dimension,"Banking, Insurance & Financial Services",unknown,unknown,unknown,False,False,True,False,False,na,274.0
+JankariTech,Technology,unknown,unknown,unknown,False,False,True,False,False,na,275.0
+Andela,Technology,unknown,unknown,unknown,False,False,True,False,False,na,276.0
+Autonomous,Technology,unknown,unknown,unknown,False,False,True,False,False,na,277.0
+Layer5,Technology,unknown,unknown,unknown,False,False,True,False,False,na,278.0
+The guardian,Technology,unknown,unknown,unknown,False,False,True,False,False,na,279.0
+Improbable,Technology,unknown,unknown,unknown,False,False,True,False,False,na,280.0
+Devexperts,Technology,unknown,unknown,unknown,False,False,True,False,False,na,281.0
+eyeo,Technology,unknown,unknown,unknown,False,False,True,False,False,na,282.0
+Indexdata,Technology,unknown,unknown,unknown,False,False,True,False,False,na,283.0
+B2CK,Technology,unknown,unknown,unknown,False,False,True,False,False,na,284.0
+Decred,Technology,unknown,unknown,unknown,False,False,True,False,False,na,285.0
+Forestry.io,Technology,unknown,unknown,unknown,False,False,True,False,False,na,286.0
+Infosiftr,Technology,unknown,unknown,unknown,False,False,True,False,False,na,287.0
+Abilian,Technology,unknown,unknown,unknown,False,False,True,False,False,na,288.0
+Blockchain Foundry,Technology,unknown,unknown,unknown,False,False,True,False,False,na,289.0
+Intesys,Technology,unknown,unknown,unknown,False,False,True,False,False,na,290.0
+PyUp,Technology,unknown,unknown,unknown,False,False,True,False,False,na,291.0
+Renovateapp,Technology,unknown,unknown,unknown,False,False,True,False,False,na,292.0
+feenk,Technology,unknown,unknown,unknown,False,False,True,False,False,na,293.0
+Wind River,Technology,United States,unknown,unknown,False,True,True,False,False,Windriver (Adopter),294.0
+Kinvolk,Technology,unknown,unknown,unknown,False,False,True,False,False,na,295.0
+Kainos,Technology,unknown,unknown,unknown,False,False,True,False,False,na,296.0
+HERE,Technology,unknown,unknown,unknown,False,False,True,False,False,na,297.0
+Infosys,Technology,India,unknown,62303195136.0,False,True,True,False,False,Infosys (Adopter),298.0
+SignalFx,Technology,unknown,unknown,unknown,False,False,True,False,False,na,299.0
+Wipro,Professional Services,unknown,https://www.wipro.com/,unknown,False,False,True,False,True,na,300.0
+Joyent,Technology,unknown,unknown,unknown,False,False,True,False,False,na,301.0
+metas,Technology,unknown,unknown,unknown,False,False,True,False,False,na,302.0
+WolfVision,Technology,unknown,unknown,unknown,False,False,True,False,False,na,303.0
+D2iQ,Technology,unknown,unknown,unknown,False,False,True,False,False,na,304.0
+TI,Technology,unknown,unknown,unknown,False,False,True,False,False,na,305.0
+OpenLattice,Technology,unknown,unknown,unknown,False,False,True,False,False,na,306.0
+commercetools,Technology,unknown,unknown,unknown,False,False,True,False,False,na,307.0
+Obvious Ventures,Professional Services,unknown,unknown,unknown,False,False,True,False,False,na,308.0
+Origin Energy,Technology,unknown,unknown,unknown,False,False,True,False,False,na,309.0
+EuroLinux,Technology,unknown,unknown,unknown,False,False,True,False,False,na,310.0
+GatsbyJS,Technology,unknown,unknown,unknown,False,False,True,False,False,na,311.0
+Pyup,Technology,unknown,unknown,unknown,False,False,True,False,False,na,312.0
+SYSOP,Technology,unknown,unknown,unknown,False,False,True,False,False,na,313.0
+SecOps Solutions,Technology,unknown,unknown,unknown,False,False,True,False,False,na,314.0
+Yunion,Technology,unknown,unknown,unknown,False,False,True,False,False,na,315.0
+Alibaba Group,unknown,China,unknown,231984112003.0,False,True,False,False,False,Alibaba (Adopter),na
+Xilinx,unknown,United States,unknown,unknown,False,True,False,False,False,AMD Xilinx (Adopter),na
+Arm Holdings,unknown,United Kingdom,unknown,unknown,False,True,False,False,False,ARM (Adopter),na
+Avanade,unknown,United States,unknown,2126544764928.0,False,True,False,False,False,Avanade (Adopter),na
+AWS,unknown,United States,unknown,unknown,False,True,False,False,False,AWS (Adopter),na
+Itau Unibanco,unknown,Brazil,unknown,unknown,False,True,False,False,False,Banco ItaÃº (Adopter),na
+Bayerische Motoren Werke,unknown,Germany,unknown,unknown,False,True,False,False,False,BMW (Adopter),na
+The Boeing Company,unknown,United States,unknown,122771365888.0,False,True,False,False,False,Boeing (Adopter),na
+Box,unknown,United States,unknown,3907670784.0,False,True,False,False,False,Box (Adopter),na
+ByteDance,unknown,China,unknown,unknown,False,True,False,False,False,ByteDance (Adopter),na
+Change Healthcare,unknown,United States,unknown,9025214464.0,False,True,False,False,False,Change Healthcare (Adopter),na
+Chef Software,unknown,United States,unknown,unknown,False,True,False,False,False,Chef (Adopter),na
+China Mobile,unknown,China,unknown,188591631155.0,False,True,False,False,False,China  Mobile (Adopter),na
+Dell Technologies,unknown,United States,unknown,unknown,False,True,False,False,False,Dell Technologies (Adopter),na
+Deutsche Bahn,unknown,Germany,unknown,unknown,False,True,False,False,False,Deutsche Bahn (Adopter),na
+Didi Labs,unknown,United States,unknown,unknown,False,True,False,False,False,Didi (Adopter),na
+Dropbox,unknown,United States,unknown,7623164928.0,False,True,False,False,False,Dropbox (Adopter),na
+Esri,unknown,United States,unknown,unknown,False,True,False,False,False,ESRI (Adopter),na
+F5,unknown,United States,unknown,8115612160.0,False,True,False,False,False,F5 (Adopter),na
+Fannie Mae,unknown,United States,unknown,532605568.0,False,True,False,False,False,Fannie Mae (Adopter),na
+Freddie Mac,unknown,United States,unknown,293892160.0,False,True,False,False,False,Freddie Mac (Adopter),na
+HCL Software,unknown,India,unknown,unknown,False,True,False,False,False,HCL Software (Adopter),na
+HERE Technologies Chicago,unknown,United States,unknown,unknown,False,True,False,False,False,Here Technologies (Adopter),na
+Huawei Technologies,unknown,China,unknown,unknown,False,True,False,False,False,Huawei (Adopter),na
+Indeed,unknown,United States,unknown,unknown,False,True,False,False,False,Indeed (Adopter),na
+ITRenew,unknown,United States,unknown,unknown,False,True,False,False,False,ITRenew (Adopter),na
+"GitLab Information Technology (Hubei) Co., LTD",unknown,China,unknown,unknown,False,True,False,False,False,JiHu(GitLab) (Adopter),na
+Johns Hopkins Applied Physics Lab,unknown,United States,unknown,unknown,False,True,False,False,False,John Hopkins University (Adopter),na
+Juniper Innovating Travel Technology,unknown,Spain,unknown,unknown,False,True,False,False,False,Juniper (Adopter),na
+Khan Academy,unknown,United States,unknown,unknown,False,True,False,False,False,Khan Academy (Adopter),na
+Line,unknown,Japan,unknown,21505327904.0,False,True,False,False,False,Line Corporation (Adopter),na
+National Instruments,unknown,United States,unknown,7643205120.0,False,True,False,False,False,National Instruments (Adopter),na
+NGINX,unknown,United States,unknown,unknown,False,True,False,False,False,NGINX (Adopter),na
+Nokia,unknown,Finland,unknown,unknown,False,True,False,False,False,Nokia (Adopter),na
+Pinterest,unknown,United States,unknown,18228682752.0,False,True,False,False,False,Pinterest (Adopter),na
+Porsche,unknown,Germany,unknown,unknown,False,True,False,False,False,Porsche (Adopter),na
+Postman,unknown,United States,unknown,unknown,False,True,False,False,False,Postman (Adopter),na
+Progressive Insurance,unknown,United States,unknown,unknown,False,True,False,False,False,Progressive Insurance (Adopter),na
+QingCloud,unknown,China,unknown,444155134.0,False,True,False,False,False,Qingcloud (Adopter),na
+Rochester Institute of Technology,unknown,United States,unknown,unknown,False,True,False,False,False,Rochester Institute of Technology (Adopter),na
+Samsung Pay,unknown,United States,unknown,unknown,False,True,False,False,False,Samsung (Adopter),na
+SAS,unknown,United States,unknown,unknown,False,True,False,False,False,SAS (Adopter),na
+Sauce Labs,unknown,United States,unknown,unknown,False,True,False,False,False,Sauce Labs (Adopter),na
+Slack,unknown,United States,unknown,unknown,False,True,False,False,False,Slack (Adopter),na
+Target,unknown,United States,unknown,74578968576.0,False,True,False,False,False,Target (Adopter),na
+TomTom,unknown,The Netherlands,unknown,1106723584.0,False,True,False,False,False,TomTom (Adopter),na
+Toyota Motor,unknown,Japan,unknown,183270522880.0,False,True,False,False,False,Toyota (Adopter),na
+"Trinity College, Dublin",unknown,Ireland,unknown,unknown,False,True,False,False,False,Trinity College Dublin (Adopter),na
+Two Sigma,unknown,United States,unknown,unknown,False,True,False,False,False,Two Sigma (Adopter),na
+"University of California, Santa Cruz",unknown,United States,unknown,unknown,False,True,False,False,False,University of Santa Cruz (Adopter),na
+US Bank,unknown,United States,unknown,51194531840.0,False,True,False,False,False,US Bank (Adopter),na
+Vivo Communication Technology,unknown,China,unknown,unknown,False,True,False,False,False,Vivo (Adopter),na
+Walmart Labs,unknown,United States,unknown,409524666368.0,False,True,False,False,False,WalmartLabs (Adopter),na
+Wayfair,unknown,United States,unknown,4072204032.0,False,True,False,False,False,Wayfair (Adopter),na
+Wipro Technologies,unknown,India,unknown,24568946823.0,False,True,False,False,False,Wipro (Adopter),na
+Alfred Sloan,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Apereo Foundation,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Baskin Engineering,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Bitergia,unknown,unknown,https://bitergia.com/,unknown,False,False,False,True,True,na,na
+Brandeis,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Cross,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Eclipse Foundation,unknown,unknown,https://www.eclipse.org/,unknown,False,False,False,True,True,na,na
+FAU,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+InnerSource Commons,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+JHU Library,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Lero,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Long Sight,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Moss Labs,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Oasis Open,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+OFE,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Open Commons,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Open Tech Strategies,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Paris,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Portland State University,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+RI.SE,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+RIT,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Software Enginnering Institute,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Saint Louis University,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+STSCI,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Trinity College,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Unuversity of British Columbia,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+University of Vermont,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Urban Systems,unknown,unknown,unknown,unknown,False,False,False,True,False,na,na
+Foundation for Public Code,unknown,unknown,https://publiccode.net/,unknown,False,False,False,False,True,na,na
+OpenForum Europe,unknown,unknown,https://openforumeurope.org/,unknown,False,False,False,False,True,na,na
+OW2,unknown,unknown,https://www.ow2.org/,unknown,False,False,False,False,True,na,na
+Amadeus,unknown,unknown,https://amadeus.com/opensource/,unknown,False,False,False,False,True,na,na
+Engineering,unknown,unknown,https://www.eng.it/en/,unknown,False,False,False,False,True,na,na
+RedHat,unknown,unknown,https://www.redhat.com,unknown,False,False,False,False,True,na,na
+Thales,unknown,unknown,https://www.thalesgroup.com/en/open-source-software-solutions,unknown,False,False,False,False,True,na,na
+Zeiss,unknown,unknown,https://www.zeiss.com/,unknown,False,False,False,False,True,na,na
+Castalia Solutions,unknown,unknown,https://castalia.solutions/,unknown,False,False,False,False,True,na,na
+Inno3,unknown,unknown,https://inno3.fr/,unknown,False,False,False,False,True,na,na
+Komyu,unknown,unknown,https://www.komyu.io/,unknown,False,False,False,False,True,na,na
+Meshed Insights,unknown,unknown,https://meshedinsights.com/,unknown,False,False,False,False,True,na,na
+Omnis Cloud,unknown,unknown,https://omniscloud.eu/,unknown,False,False,False,False,True,na,na
+Open Elements,unknown,unknown,https://open-elements.de/,unknown,False,False,False,False,True,na,na
+OSADL,unknown,unknown,https://www.osadl.org/,unknown,False,False,False,False,True,na,na
+Prestashop,unknown,unknown,https://www.prestashop.com/,unknown,False,False,False,False,True,na,na
+EMQ,unknown,unknown,https://emqx.com,unknown,False,False,False,False,True,na,na
+Sailboard,unknown,unknown,https://sailboard.io/,unknown,False,False,False,False,True,na,na
+APELL,unknown,unknown,https://www.apell.info/,unknown,False,False,False,False,True,na,na
+Apereo,unknown,unknown,https://www.apereo.org/,unknown,False,False,False,False,True,na,na
+CH-Open,unknown,unknown,https://www.ch-open.ch/,unknown,False,False,False,False,True,na,na
+CNLL,unknown,unknown,https://cnll.fr/,unknown,False,False,False,False,True,na,na
+ESOP,unknown,unknown,https://www.esop.pt/,unknown,False,False,False,False,True,na,na
+FSFE,unknown,unknown,https://fsfe.org/,unknown,False,False,False,False,True,na,na
+GFOSS,unknown,unknown,https://gfoss.eu/,unknown,False,False,False,False,True,na,na
+OpenUK,unknown,unknown,https://openuk.uk/,unknown,False,False,False,False,True,na,na
+OSB Alliance,unknown,unknown,https://osb-alliance.de/,unknown,False,False,False,False,True,na,na
+OSSBIG,unknown,unknown,https://www.ossbig.at/,unknown,False,False,False,False,True,na,na
+TNO,unknown,unknown,https://www.tno.nl/en/,unknown,False,False,False,False,True,na,na
+TNO,unknown,unknown,https://www.tcd.ie/innovation/OSPO/,unknown,False,False,False,False,True,na,na
